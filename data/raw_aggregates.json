@@ -1,0 +1,5261 @@
+{
+ "server_count": 260061,
+ "purpose_counter": [
+  [
+   null,
+   47978
+  ],
+  [
+   "Utility",
+   38118
+  ],
+  [
+   "Fiber Optics",
+   33671
+  ],
+  [
+   "ROW Construction",
+   24148
+  ],
+  [
+   "Street Cut - Water",
+   18540
+  ],
+  [
+   "Street Cut - Utilities",
+   17998
+  ],
+  [
+   "Road/Alley Repair",
+   11346
+  ],
+  [
+   "Pot Holing",
+   7076
+  ],
+  [
+   "Street Cut - Sewer",
+   6187
+  ],
+  [
+   "Special Events",
+   5565
+  ],
+  [
+   "Sidewalk Repair",
+   4867
+  ],
+  [
+   "Miscellaneous - Multi-Categories",
+   4410
+  ],
+  [
+   "Sanitary Sewer",
+   4162
+  ],
+  [
+   "Crane Service",
+   3948
+  ],
+  [
+   "Safety",
+   3482
+  ],
+  [
+   "Container",
+   3048
+  ],
+  [
+   "Site Improvements",
+   2875
+  ],
+  [
+   "Paving",
+   2564
+  ],
+  [
+   "Traffic Signal Installation",
+   2352
+  ],
+  [
+   "Equipment Installation",
+   1967
+  ],
+  [
+   "Cable",
+   1923
+  ],
+  [
+   "Curb and Gutter",
+   1515
+  ],
+  [
+   "Aerial Cable",
+   1452
+  ],
+  [
+   "Dumpster",
+   1418
+  ],
+  [
+   "Boring and/or Wells",
+   1372
+  ],
+  [
+   "Tree Trimming",
+   1269
+  ],
+  [
+   "Concrete Pumper",
+   1182
+  ],
+  [
+   "Surveying",
+   996
+  ],
+  [
+   "Sewer Lining",
+   850
+  ],
+  [
+   "Deliveries",
+   650
+  ],
+  [
+   "Parking",
+   623
+  ],
+  [
+   "Bridge Construction",
+   415
+  ],
+  [
+   "Curb Cut/Driveway",
+   389
+  ],
+  [
+   "Fencing Construction",
+   311
+  ],
+  [
+   "Soil Sampling",
+   269
+  ],
+  [
+   "Valet - Short Term",
+   190
+  ],
+  [
+   "Alley Resurfacing",
+   189
+  ],
+  [
+   "Monitoring Well",
+   185
+  ],
+  [
+   "Valet - Long Term",
+   178
+  ],
+  [
+   "Construction Trailer",
+   166
+  ],
+  [
+   "Bike Parking",
+   121
+  ],
+  [
+   "Filming",
+   45
+  ],
+  [
+   "Fire Hydrant",
+   32
+  ],
+  [
+   "Block Party",
+   14
+  ],
+  [
+   "HAZMAT Removal",
+   5
+  ]
+ ],
+ "exempt_counter": [
+  [
+   null,
+   187731
+  ],
+  [
+   "Xcel Billed",
+   33630
+  ],
+  [
+   "CPM Trans",
+   5071
+  ],
+  [
+   "Denver Water",
+   3458
+  ],
+  [
+   "xcel bills",
+   2927
+  ],
+  [
+   "DW",
+   2529
+  ],
+  [
+   "Transportation",
+   2380
+  ],
+  [
+   "Denver Water Exempt 10",
+   1403
+  ],
+  [
+   "Street Maintenance",
+   1369
+  ],
+  [
+   "Denver Water Billed",
+   1336
+  ],
+  [
+   "CPM WW",
+   1187
+  ],
+  [
+   "COVIDRES",
+   899
+  ],
+  [
+   "XCEL",
+   606
+  ],
+  [
+   "CONTAINER",
+   601
+  ],
+  [
+   "Xcel Energy",
+   564
+  ],
+  [
+   "CENTURYLINK BILLED",
+   539
+  ],
+  [
+   "Dumpster",
+   432
+  ],
+  [
+   "Colfax BRT",
+   384
+  ],
+  [
+   "outdoor lighting",
+   364
+  ],
+  [
+   "CENTURY LINK BILLED",
+   359
+  ],
+  [
+   "Xcel Outdoor lighting",
+   350
+  ],
+  [
+   "CPM Facilities",
+   344
+  ],
+  [
+   "CDOT",
+   323
+  ],
+  [
+   "DHA",
+   297
+  ],
+  [
+   "Surveying",
+   261
+  ],
+  [
+   "TEMPORARY EXPANSION",
+   259
+  ],
+  [
+   "Lead Service replacement Denver Water",
+   199
+  ],
+  [
+   "Denver Water Exempt",
+   165
+  ],
+  [
+   "Forestry",
+   162
+  ],
+  [
+   "Denver Water lead service project",
+   151
+  ],
+  [
+   "Wastewater",
+   141
+  ],
+  [
+   "Centurylink",
+   133
+  ],
+  [
+   "TRANSPORTATION: 202055405",
+   130
+  ],
+  [
+   "202160979",
+   118
+  ],
+  [
+   "XCEL - 1% City Job",
+   116
+  ],
+  [
+   "Transportation:  PO-00153084",
+   110
+  ],
+  [
+   "Other",
+   109
+  ],
+  [
+   "Parks & Rec",
+   109
+  ],
+  [
+   "lead line replacement",
+   108
+  ],
+  [
+   "Survey",
+   106
+  ],
+  [
+   "MHFD",
+   102
+  ],
+  [
+   "Street Maintenace",
+   100
+  ],
+  [
+   "City Funded",
+   89
+  ],
+  [
+   "St Maint - Lawrence Alcaraz",
+   89
+  ],
+  [
+   "MOU DW contractor",
+   84
+  ],
+  [
+   "10-Denver Water",
+   82
+  ],
+  [
+   "DOTI Manager",
+   81
+  ],
+  [
+   "city project",
+   78
+  ],
+  [
+   "Street Maint :  202261845",
+   78
+  ],
+  [
+   "Central 70",
+   77
+  ],
+  [
+   "RTD 15l",
+   74
+  ],
+  [
+   "Denver Art Museum",
+   73
+  ],
+  [
+   "Replacement of lead water service lines",
+   73
+  ],
+  [
+   "Mat Flores",
+   69
+  ],
+  [
+   "Street Maint:  202683175",
+   64
+  ],
+  [
+   "PDA TRAN: 202473421",
+   59
+  ],
+  [
+   "Micromobility Pilot Program",
+   58
+  ],
+  [
+   "Street Maint:  202366348",
+   57
+  ],
+  [
+   "DW project",
+   54
+  ],
+  [
+   "Transportation:  DOTI-PRJ-10002486",
+   54
+  ],
+  [
+   "St Maintenance - Mill O/L",
+   53
+  ],
+  [
+   "Wastewater:  202473151",
+   53
+  ],
+  [
+   "Road Repair",
+   52
+  ],
+  [
+   "E Colfax BRT",
+   50
+  ],
+  [
+   "10 - Denver Water",
+   46
+  ],
+  [
+   "202263789",
+   45
+  ],
+  [
+   "Forestry Ops TN-24-006",
+   45
+  ],
+  [
+   "COVIDRES13041655",
+   44
+  ],
+  [
+   "Lead line",
+   43
+  ],
+  [
+   "PDA INFRA Proj-10004600",
+   43
+  ],
+  [
+   "WARRANTY REPAIRS",
+   42
+  ],
+  [
+   "Forestry Ops TN-24-005",
+   41
+  ],
+  [
+   "Central 70 Project",
+   39
+  ],
+  [
+   "Gray's Peak Storm",
+   39
+  ],
+  [
+   "UTFI",
+   35
+  ],
+  [
+   "COVID Relief",
+   34
+  ],
+  [
+   "Denver Theater District",
+   34
+  ],
+  [
+   "Denver Water Project",
+   34
+  ],
+  [
+   "Green Infrastructure",
+   34
+  ],
+  [
+   "Transporation",
+   34
+  ],
+  [
+   "Wastewater:  2019-PROJMSTR-0000230",
+   34
+  ],
+  [
+   "Denver Water MOU",
+   33
+  ],
+  [
+   "Street Maintenance (Mill O/L)",
+   33
+  ],
+  [
+   "Wastewater PRJ-10001529",
+   33
+  ],
+  [
+   "Xcel (OL)",
+   33
+  ],
+  [
+   "CPM Transportation",
+   32
+  ],
+  [
+   "Sewer Line Exploration",
+   32
+  ],
+  [
+   "WWM Paula Stokes",
+   32
+  ],
+  [
+   "CCD Exempt",
+   31
+  ],
+  [
+   "DUMPSTER - BILLED",
+   31
+  ],
+  [
+   "Outdoor Street Lighting",
+   31
+  ],
+  [
+   "ROW improvements per Moses Valdez",
+   31
+  ],
+  [
+   "WARRANTY REPAIRS.",
+   31
+  ],
+  [
+   "222205",
+   30
+  ],
+  [
+   "CAO, DPD, DPHE",
+   30
+  ],
+  [
+   "Facilities: 202578044",
+   30
+  ],
+  [
+   "fees waived for city infrastructure per",
+   30
+  ],
+  [
+   "Street Maint :  202366920",
+   30
+  ],
+  [
+   "Street Maint:  202366347",
+   30
+  ],
+  [
+   "1% UG",
+   29
+  ],
+  [
+   "2022-PROJMSTR-0000038",
+   29
+  ],
+  [
+   "Century Link",
+   29
+  ],
+  [
+   "DENVER WATER LEAD LINE REPLACEMENT",
+   28
+  ],
+  [
+   "Forestry OPS TN-24-003",
+   28
+  ],
+  [
+   "IPM Mike Harmer",
+   28
+  ],
+  [
+   "Street Maint :  202477114",
+   28
+  ],
+  [
+   "202159681",
+   27
+  ],
+  [
+   "Final acceptance warranty repair work.",
+   27
+  ],
+  [
+   "House 1000",
+   27
+  ],
+  [
+   "Infrastructure",
+   27
+  ],
+  [
+   "Street Maint:  202477561",
+   27
+  ],
+  [
+   "Street Maintenance:   WO# 242206",
+   27
+  ],
+  [
+   "Wastewater: 202056612/202473206/TO03",
+   27
+  ],
+  [
+   "Denver Water Lead Project",
+   26
+  ],
+  [
+   "Highline Canal",
+   26
+  ],
+  [
+   "Street Maint:  202472398",
+   26
+  ],
+  [
+   "CDOT Signal",
+   25
+  ],
+  [
+   "PDA TRANSPORTATION:  DOTI-202055954-00",
+   25
+  ],
+  [
+   "Potholing",
+   25
+  ],
+  [
+   "Street Maint:  202472240",
+   25
+  ],
+  [
+   "Survey Project:  202370556",
+   25
+  ],
+  [
+   "2019-PROJMSTR-0000447",
+   24
+  ],
+  [
+   "202056022",
+   24
+  ],
+  [
+   "2020-PROJMSTR-0000620",
+   24
+  ],
+  [
+   "Denver Water fee exempt  ALSLR Project",
+   24
+  ],
+  [
+   "Street Maint:  202366349",
+   24
+  ],
+  [
+   "Transportation Project:  202578010",
+   24
+  ],
+  [
+   "Transportaiton",
+   23
+  ],
+  [
+   "CDOT - Gus Beiber 303-916-1568",
+   22
+  ],
+  [
+   "CDOT C70",
+   22
+  ],
+  [
+   "St Maint - Nick Armbrust",
+   22
+  ],
+  [
+   "Street Maint :  20247714",
+   22
+  ],
+  [
+   "Street Maint:  202477112",
+   22
+  ],
+  [
+   "Street Maint:  260102 E Colfax",
+   22
+  ],
+  [
+   "WWM Caitlin Wolff",
+   22
+  ],
+  [
+   "1%",
+   21
+  ],
+  [
+   "COVIDRES13020003",
+   21
+  ],
+  [
+   "Affordable Housing",
+   20
+  ],
+  [
+   "billed",
+   20
+  ],
+  [
+   "COM Trans",
+   20
+  ],
+  [
+   "Denver Water fee exempt",
+   20
+  ],
+  [
+   "Forestry Ops TN-23-048",
+   20
+  ],
+  [
+   "St Maint Nick Armbrust",
+   20
+  ],
+  [
+   "Street Maintenance 720-865-4175",
+   20
+  ],
+  [
+   "Transportation: 202366828",
+   20
+  ],
+  [
+   "Xcel (1%)",
+   20
+  ],
+  [
+   "Ramp Replacement",
+   19
+  ],
+  [
+   "St Maint - Amy Strouthopoulos",
+   19
+  ],
+  [
+   "Street Maintenance:   202366920",
+   19
+  ],
+  [
+   "Todd Johnson",
+   19
+  ],
+  [
+   "Wastewater:  202473941",
+   19
+  ],
+  [
+   "CDOT Patrick Pease",
+   18
+  ],
+  [
+   "ColfaxBRT",
+   18
+  ],
+  [
+   "COVIDRES13023723",
+   18
+  ],
+  [
+   "COVIDRES13072194",
+   18
+  ],
+  [
+   "MLB ASG - Playball Park",
+   18
+  ],
+  [
+   "Street Maint :   202261845",
+   18
+  ],
+  [
+   "Street Maintenance - Paving",
+   18
+  ],
+  [
+   "Street Maintenance:   WO#232114",
+   18
+  ],
+  [
+   "Survey Tim Sherlock",
+   18
+  ],
+  [
+   "Survey: DOTI-202369453",
+   18
+  ],
+  [
+   "2022-PM-0000368",
+   17
+  ],
+  [
+   "City Project:  4.74 Quebec SW (12th to ",
+   17
+  ],
+  [
+   "DHS",
+   17
+  ],
+  [
+   "DPHE: 2021-ESA-JOB-0356",
+   17
+  ],
+  [
+   "IPM John LaSala",
+   17
+  ],
+  [
+   "Transportation: 202580459",
+   17
+  ],
+  [
+   "Xcel OL",
+   17
+  ],
+  [
+   "C70",
+   16
+  ],
+  [
+   "COVIDRES13026126",
+   16
+  ],
+  [
+   "CPM Transportation:  202263040",
+   16
+  ],
+  [
+   "Outdoor Lighting - No FEE",
+   16
+  ],
+  [
+   "part of city project for Kentucky Ave",
+   16
+  ],
+  [
+   "PDA Tran:  PO-00115349",
+   16
+  ],
+  [
+   "Sewer Line",
+   16
+  ],
+  [
+   "Street Maint:  202472080",
+   16
+  ],
+  [
+   "Street Maint:  WO#260201",
+   16
+  ],
+  [
+   "TEMPORATY EXPANSION",
+   16
+  ],
+  [
+   "Transportation:  202578010",
+   16
+  ],
+  [
+   "XCEL-RECON",
+   16
+  ],
+  [
+   "20190000588",
+   15
+  ],
+  [
+   "2020-PROJMSTR-0000021",
+   15
+  ],
+  [
+   "City Council Sponsored",
+   15
+  ],
+  [
+   "Denver Water lead line project",
+   15
+  ],
+  [
+   "E Colfax BRT project",
+   15
+  ],
+  [
+   "Jackson St Storm",
+   15
+  ],
+  [
+   "PDA TRANS:  DOTI-202055954-00",
+   15
+  ],
+  [
+   "Repaving",
+   15
+  ],
+  [
+   "RTD warranty work (A-Line)",
+   15
+  ],
+  [
+   "Street Maintenance Concrete Spot Repair",
+   15
+  ],
+  [
+   "Street Maintenance:   WO#242204",
+   15
+  ],
+  [
+   "Survey: 202582706",
+   15
+  ],
+  [
+   "202157899",
+   14
+  ],
+  [
+   "202158956",
+   14
+  ],
+  [
+   "Approved by Moses Valdez",
+   14
+  ],
+  [
+   "COVIDRES13056108",
+   14
+  ],
+  [
+   "COVIDRES13110311",
+   14
+  ],
+  [
+   "Denver Water ALSLR Project",
+   14
+  ],
+  [
+   "Denver Water-Fee Exempt",
+   14
+  ],
+  [
+   "DW sub",
+   14
+  ],
+  [
+   "St Maint+Asset Mngmt. - Amy Strouthopou",
+   14
+  ],
+  [
+   "Street Maint :   202682896",
+   14
+  ],
+  [
+   "Street Maint:   WO# 250201",
+   14
+  ],
+  [
+   "Wastewater 202368760",
+   14
+  ],
+  [
+   "City Project: 202472381",
+   13
+  ],
+  [
+   "Outdoor Lighting - CCD",
+   13
+  ],
+  [
+   "Street Maintenance 202057047",
+   13
+  ],
+  [
+   "Street Maintenance:   WO# 250209",
+   13
+  ],
+  [
+   "Transportation:  202577840",
+   13
+  ],
+  [
+   "ALSLR program",
+   12
+  ],
+  [
+   "CCD (1%)",
+   12
+  ],
+  [
+   "Charitable cause",
+   12
+  ],
+  [
+   "COVIDRES13020554",
+   12
+  ],
+  [
+   "COVIDRES13020849",
+   12
+  ],
+  [
+   "Denver Water ALSLR (Lead Line Project)",
+   12
+  ],
+  [
+   "DENVER WATER BILLED 140 yr old repair",
+   12
+  ],
+  [
+   "DHA Letter",
+   12
+  ],
+  [
+   "DW Project. :Lead Line Project",
+   12
+  ],
+  [
+   "Gas Line",
+   12
+  ],
+  [
+   "Gas Main Relocation",
+   12
+  ],
+  [
+   "Highline Canal Project",
+   12
+  ],
+  [
+   "james mead",
+   12
+  ],
+  [
+   "Metro Water Recovery",
+   12
+  ],
+  [
+   "Outdoor Lighting Program",
+   12
+  ],
+  [
+   "PDA INFRA:  202264889",
+   12
+  ],
+  [
+   "RTD",
+   12
+  ],
+  [
+   "Street Maint Project:  202472080",
+   12
+  ],
+  [
+   "Street Maint:  20263287",
+   12
+  ],
+  [
+   "Street Maintenenace",
+   12
+  ],
+  [
+   "TRANSPORTATION:  202368838",
+   12
+  ],
+  [
+   "Transportation:  OC#202368832",
+   12
+  ],
+  [
+   "2021-CIS-0000228",
+   11
+  ],
+  [
+   "Block Party",
+   11
+  ],
+  [
+   "city project CCOD 202056865",
+   11
+  ],
+  [
+   "Covidres13020789",
+   11
+  ],
+  [
+   "Denver Rescue Mission",
+   11
+  ],
+  [
+   "DENVERWATER",
+   11
+  ],
+  [
+   "DOTI Manager's Partnership",
+   11
+  ],
+  [
+   "EXCEL",
+   11
+  ],
+  [
+   "PDA INFRA:   DOTI-202473206",
+   11
+  ],
+  [
+   "PER DHA LETTER",
+   11
+  ],
+  [
+   "RTD Per Mark Lomax",
+   11
+  ],
+  [
+   "St Maintenance",
+   11
+  ],
+  [
+   "Street Maint:  202261845",
+   11
+  ],
+  [
+   "Street Maintenance:   WO#242106",
+   11
+  ],
+  [
+   "Suveying",
+   11
+  ],
+  [
+   "Transportation CAP LoHi",
+   11
+  ],
+  [
+   "Tree Watering",
+   11
+  ],
+  [
+   "222204",
+   10
+  ],
+  [
+   "Bike Lane Striping",
+   10
+  ],
+  [
+   "CPM Trans: 202477091",
+   10
+  ],
+  [
+   "Facilities",
+   10
+  ],
+  [
+   "FEES WAIVED PER REVOKED PERMIT",
+   10
+  ],
+  [
+   "MLB ASG - Mayors Council Playball and M",
+   10
+  ],
+  [
+   "Outdoor Street Lighting Group Xcel Ener",
+   10
+  ],
+  [
+   "PDA Transportation:  201948462",
+   10
+  ],
+  [
+   "RANSPORTATION:  DOTI-202055954",
+   10
+  ],
+  [
+   "St Maint - Norman Shaw",
+   10
+  ],
+  [
+   "Street Maint: 202261845",
+   10
+  ],
+  [
+   "Street Maintenance:   WO# 250215",
+   10
+  ],
+  [
+   "Street Maintenance:  202477068",
+   10
+  ],
+  [
+   "Street Maintenance:  DOTI-202264840",
+   10
+  ],
+  [
+   "Syrveying",
+   10
+  ],
+  [
+   "Traded Infrastructure",
+   10
+  ],
+  [
+   "Traffic Signal",
+   10
+  ],
+  [
+   "Traffic Signals",
+   10
+  ],
+  [
+   "Transportation DOTI-202056595-00",
+   10
+  ],
+  [
+   "TREE TRIMMING",
+   10
+  ],
+  [
+   "Visit Denver",
+   10
+  ],
+  [
+   "Wastewater:  202368760",
+   10
+  ],
+  [
+   "15L",
+   9
+  ],
+  [
+   "202055093",
+   9
+  ],
+  [
+   "ADDITIONAL ASPHALT PROVIDED.",
+   9
+  ],
+  [
+   "CDOT Jason Lucerna 303.941.3515",
+   9
+  ],
+  [
+   "CDOT Project:  25871",
+   9
+  ],
+  [
+   "CONTRACTOR PROVIDED EXTRA ROADWAY INFRA",
+   9
+  ],
+  [
+   "COVIDRES13023972",
+   9
+  ],
+  [
+   "DEDO",
+   9
+  ],
+  [
+   "Denver Water ALSLR (Lead Line Project),",
+   9
+  ],
+  [
+   "DOTI",
+   9
+  ],
+  [
+   "DOTI Project:    202580240",
+   9
+  ],
+  [
+   "DOTI-PRJ-10002486",
+   9
+  ],
+  [
+   "Drilling",
+   9
+  ],
+  [
+   "Fee exempt",
+   9
+  ],
+  [
+   "Forestry Ops TN-24-004",
+   9
+  ],
+  [
+   "GC working under Denver Waters Lead Lin",
+   9
+  ],
+  [
+   "Leadline",
+   9
+  ],
+  [
+   "Mile High Flood District",
+   9
+  ],
+  [
+   "Per Vince Rivera",
+   9
+  ],
+  [
+   "Renewal of permit #2021-PW-0003292, Den",
+   9
+  ],
+  [
+   "Replacement of lead water service line ",
+   9
+  ],
+  [
+   "RTD - Agreement with Todd Richardson",
+   9
+  ],
+  [
+   "St Maint Lawrence Alcaraz 303-307-1579",
+   9
+  ],
+  [
+   "St Maint: 242115",
+   9
+  ],
+  [
+   "Street Maint:  242203",
+   9
+  ],
+  [
+   "Street Maintenance:   WO# 250201",
+   9
+  ],
+  [
+   "TAP",
+   9
+  ],
+  [
+   "Transportation Project: 202472381",
+   9
+  ],
+  [
+   "Transportation:  10003393",
+   9
+  ],
+  [
+   "Transportation:  202580459",
+   9
+  ],
+  [
+   "TRANSPORTATION:  DOTI-202055954-00",
+   9
+  ],
+  [
+   "Transportation:  PRJ-10002486",
+   9
+  ],
+  [
+   "WASTEWATER: 202582578",
+   9
+  ],
+  [
+   "XCEL 1%",
+   9
+  ],
+  [
+   "1% job",
+   8
+  ],
+  [
+   "2018-0000332",
+   8
+  ],
+  [
+   "Brady Rog 720-490-6417",
+   8
+  ],
+  [
+   "CENTURYLINK  BILLED",
+   8
+  ],
+  [
+   "COVIDRES13050890",
+   8
+  ],
+  [
+   "COVIDRES13139222",
+   8
+  ],
+  [
+   "Denver maintenance agreement",
+   8
+  ],
+  [
+   "Denver Water Exempt Code 10",
+   8
+  ],
+  [
+   "Denver Water Lead service replacement",
+   8
+  ],
+  [
+   "DOTI  John LaSala",
+   8
+  ],
+  [
+   "DPAC",
+   8
+  ],
+  [
+   "Excel Billed",
+   8
+  ],
+  [
+   "fees waived per MOU",
+   8
+  ],
+  [
+   "HOST -202158709",
+   8
+  ],
+  [
+   "James Mead 720-937-4556",
+   8
+  ],
+  [
+   "lead line project",
+   8
+  ],
+  [
+   "Lead Lines for Denver Water",
+   8
+  ],
+  [
+   "PROJ-10003498",
+   8
+  ],
+  [
+   "Qwest/Century Link",
+   8
+  ],
+  [
+   "RR Fee Cap Met 2026-PW-0008227",
+   8
+  ],
+  [
+   "SHO M320-149 (25530)",
+   8
+  ],
+  [
+   "St Maint : 260110 Overland Neighborhood",
+   8
+  ],
+  [
+   "St Maint:  W/O 260215",
+   8
+  ],
+  [
+   "Street Maint (BNSF)",
+   8
+  ],
+  [
+   "Street Maint:  202366350",
+   8
+  ],
+  [
+   "Street Maint:  260101",
+   8
+  ],
+  [
+   "Street Maintenance:   WO#232231",
+   8
+  ],
+  [
+   "Transportation 2019PM0000175",
+   8
+  ],
+  [
+   "Transportation Project:  13.01.013.804",
+   8
+  ],
+  [
+   "Transportation:  202371989",
+   8
+  ],
+  [
+   "TRANSPORTATION: PO-00153084",
+   8
+  ],
+  [
+   "WWM - Paula Stokes",
+   8
+  ],
+  [
+   "Xcel 136",
+   8
+  ],
+  [
+   "1% lighting",
+   7
+  ],
+  [
+   "201840397",
+   7
+  ],
+  [
+   "202160233",
+   7
+  ],
+  [
+   "22582578",
+   7
+  ],
+  [
+   "ALSLR lead line service",
+   7
+  ],
+  [
+   "CCD Bridge: 2025 Pavement Pres O/C",
+   7
+  ],
+  [
+   "City Kiosk Project",
+   7
+  ],
+  [
+   "Contractor is contributing extra infras",
+   7
+  ],
+  [
+   "Credit M.Valdez",
+   7
+  ],
+  [
+   "de",
+   7
+  ],
+  [
+   "DENVER HOUSING AUTHORITY",
+   7
+  ],
+  [
+   "DOTI-202056595",
+   7
+  ],
+  [
+   "HOST",
+   7
+  ],
+  [
+   "Jesus Apodaca (720) 865-6987",
+   7
+  ],
+  [
+   "Mill & Overlay",
+   7
+  ],
+  [
+   "NO FEE OUTDOOR LIGHTS",
+   7
+  ],
+  [
+   "PDA INFRA BRIDGE:  202159735-04",
+   7
+  ],
+  [
+   "PRJ-10003717",
+   7
+  ],
+  [
+   "ROW credit per Bernard",
+   7
+  ],
+  [
+   "ROW improvements",
+   7
+  ],
+  [
+   "St Maint - J Tyler Mead",
+   7
+  ],
+  [
+   "St Maint:  202477090",
+   7
+  ],
+  [
+   "Street Maint:  202472432",
+   7
+  ],
+  [
+   "Street Maint:  202477091",
+   7
+  ],
+  [
+   "Street Maint:  250212",
+   7
+  ],
+  [
+   "Street Maint: 202683175",
+   7
+  ],
+  [
+   "Street Maintenance: 202472279",
+   7
+  ],
+  [
+   "Street Maintenane",
+   7
+  ],
+  [
+   "Survey Project:  DOTI-202369453",
+   7
+  ],
+  [
+   "Survey:  202370556",
+   7
+  ],
+  [
+   "Traffic",
+   7
+  ],
+  [
+   "Tranportation",
+   7
+  ],
+  [
+   "Transportation Project: 2025577840",
+   7
+  ],
+  [
+   "Transportation:  202158040",
+   7
+  ],
+  [
+   "Underground Work",
+   7
+  ],
+  [
+   "Wastewater Project: 202582818",
+   7
+  ],
+  [
+   "Wastewater:  PRJ-10005827",
+   7
+  ],
+  [
+   "WWM Kelly Crum",
+   7
+  ],
+  [
+   "15L RTD PROJECT",
+   6
+  ],
+  [
+   "202264125",
+   6
+  ],
+  [
+   "202264580",
+   6
+  ],
+  [
+   "AHRT",
+   6
+  ],
+  [
+   "Bike path & Signals",
+   6
+  ],
+  [
+   "Bridge Engineer Plans to restrict bridg",
+   6
+  ],
+  [
+   "CCD 16SM",
+   6
+  ],
+  [
+   "CCD Facilities",
+   6
+  ],
+  [
+   "City Project %1",
+   6
+  ],
+  [
+   "COVIDRES13022795",
+   6
+  ],
+  [
+   "COVIDRES13022839",
+   6
+  ],
+  [
+   "COVIDRES13029956",
+   6
+  ],
+  [
+   "CPM Trans PO-00153084",
+   6
+  ],
+  [
+   "Denver Transit Operators",
+   6
+  ],
+  [
+   "Denver water contractor",
+   6
+  ],
+  [
+   "Denver Water Lead Line Service",
+   6
+  ],
+  [
+   "DOTI Mark Gonzales",
+   6
+  ],
+  [
+   "DOTI UFI",
+   6
+  ],
+  [
+   "DOTI:  202475612",
+   6
+  ],
+  [
+   "DPR:  PJR-10003104",
+   6
+  ],
+  [
+   "Drainage",
+   6
+  ],
+  [
+   "DW = Bryan Douglas",
+   6
+  ],
+  [
+   "Excel Energy",
+   6
+  ],
+  [
+   "Fees Waived per B Chavez",
+   6
+  ],
+  [
+   "GM District",
+   6
+  ],
+  [
+   "IGA",
+   6
+  ],
+  [
+   "MLB ASG - Budweiser Commercial",
+   6
+  ],
+  [
+   "MLB ASG - Sponsor Zone",
+   6
+  ],
+  [
+   "MOU - Denver Water",
+   6
+  ],
+  [
+   "No Fee Filming",
+   6
+  ],
+  [
+   "Paving",
+   6
+  ],
+  [
+   "PDA Tran:  DOTI-202473628",
+   6
+  ],
+  [
+   "PUNCH LIST REPAIRS FOR ACCEPTANCE.",
+   6
+  ],
+  [
+   "Range Point Rehab",
+   6
+  ],
+  [
+   "RTD Light Rail",
+   6
+  ],
+  [
+   "St Maint = Nick Armbrust",
+   6
+  ],
+  [
+   "ST Maint: 202472080",
+   6
+  ],
+  [
+   "St Maintenance: 260116 - N York St",
+   6
+  ],
+  [
+   "Street Maint:   WO# 250213",
+   6
+  ],
+  [
+   "Street Maint:  202472433",
+   6
+  ],
+  [
+   "Street Maint:  202582303",
+   6
+  ],
+  [
+   "Street Maint:  242202",
+   6
+  ],
+  [
+   "Street Maint: 202477091",
+   6
+  ],
+  [
+   "Street Maint: 202683590",
+   6
+  ],
+  [
+   "Street Maintenance  Mill  & O/L",
+   6
+  ],
+  [
+   "Street Maintenance:   WO# 250106",
+   6
+  ],
+  [
+   "Street Maintenance:   WO# 250123",
+   6
+  ],
+  [
+   "Street Maintenance:   WO#242201",
+   6
+  ],
+  [
+   "Street Maintenance: 242105",
+   6
+  ],
+  [
+   "Survey Project: 202685935",
+   6
+  ],
+  [
+   "TRANSPORTATION:  00153084",
+   6
+  ],
+  [
+   "Transportation:  202475225",
+   6
+  ],
+  [
+   "TRANSPORTATION: 202263040",
+   6
+  ],
+  [
+   "Transportation: 202472381 WO 2",
+   6
+  ],
+  [
+   "Transportation: 202475612",
+   6
+  ],
+  [
+   "University Hills Library Project",
+   6
+  ],
+  [
+   "WASTE WATER: 2023-PROJMSTR-0000444",
+   6
+  ],
+  [
+   "Wastewater 108850606",
+   6
+  ],
+  [
+   "Wastewater DOTI-202473206",
+   6
+  ],
+  [
+   "WWM Lawrence Alcaraz",
+   6
+  ],
+  [
+   "XCEL BILLED 1%",
+   6
+  ],
+  [
+   "15-Other",
+   5
+  ],
+  [
+   "16th Ave Storm",
+   5
+  ],
+  [
+   "201736299",
+   5
+  ],
+  [
+   "202054949",
+   5
+  ],
+  [
+   "Affordable Housing - Punch List Items",
+   5
+  ],
+  [
+   "Affordable Housing Fees waiver 2025",
+   5
+  ],
+  [
+   "CCD",
+   5
+  ],
+  [
+   "city funded project",
+   5
+  ],
+  [
+   "City Project: 2016-PROJMSTR-000057",
+   5
+  ],
+  [
+   "City Project: Forestry Ops TN-23-021",
+   5
+  ],
+  [
+   "Colfax BRT Project",
+   5
+  ],
+  [
+   "CONTAINER BILLING",
+   5
+  ],
+  [
+   "Coordination with Denver Water and Wate",
+   5
+  ],
+  [
+   "COVIDRES13024045",
+   5
+  ],
+  [
+   "CREDIT OWED ON PERMIT 2023-PW-0024927.",
+   5
+  ],
+  [
+   "Credit V Rivera",
+   5
+  ],
+  [
+   "DCW CREDIT WAIVE PER B.CHAVEZ",
+   5
+  ],
+  [
+   "Denver Water ALSR project",
+   5
+  ],
+  [
+   "DHA PEOJECT 2023PM000001118",
+   5
+  ],
+  [
+   "Fees already paid",
+   5
+  ],
+  [
+   "Forestry:  PO 001519634",
+   5
+  ],
+  [
+   "Installing additional infrastructure",
+   5
+  ],
+  [
+   "IPM Kevin Rens",
+   5
+  ],
+  [
+   "MOU",
+   5
+  ],
+  [
+   "NWC",
+   5
+  ],
+  [
+   "outdoor lighting 1%",
+   5
+  ],
+  [
+   "payment received by cashier",
+   5
+  ],
+  [
+   "PDA INFRA: 202263906",
+   5
+  ],
+  [
+   "PDA TRAN: 10003318",
+   5
+  ],
+  [
+   "PDA TRAN: 202055954",
+   5
+  ],
+  [
+   "Per Denver Water MOU",
+   5
+  ],
+  [
+   "Prior permit un-used",
+   5
+  ],
+  [
+   "property owner doing repair to own side",
+   5
+  ],
+  [
+   "PROVIDING ADDITIONAL INFRASTRUCTURE",
+   5
+  ],
+  [
+   "Punch Items that were missed by inspect",
+   5
+  ],
+  [
+   "Qwest",
+   5
+  ],
+  [
+   "Qwest billed",
+   5
+  ],
+  [
+   "Range Point Locating",
+   5
+  ],
+  [
+   "St Main Nick Armbrust",
+   5
+  ],
+  [
+   "St Maint Derek Miles",
+   5
+  ],
+  [
+   "St Maint:  260105 University Hills SW",
+   5
+  ],
+  [
+   "St Maint:  WO#260109",
+   5
+  ],
+  [
+   "Street Maint:  202683590",
+   5
+  ],
+  [
+   "Street Paving",
+   5
+  ],
+  [
+   "Sturgeon",
+   5
+  ],
+  [
+   "Surveing",
+   5
+  ],
+  [
+   "TEMP EXPANSON",
+   5
+  ],
+  [
+   "TES - Matt Flores",
+   5
+  ],
+  [
+   "Transportation:  202263040",
+   5
+  ],
+  [
+   "Transportation:  202263102",
+   5
+  ],
+  [
+   "Transportation: 2016-PROJMSTR-000057",
+   5
+  ],
+  [
+   "TRANSPORTATION: 202368838",
+   5
+  ],
+  [
+   "TRANSPORTATION: DOTI-202055954-00",
+   5
+  ],
+  [
+   "Transportation: PRJ-10005107",
+   5
+  ],
+  [
+   "Valet",
+   5
+  ],
+  [
+   "Wastewater 2022-CIP-000020",
+   5
+  ],
+  [
+   "Wastewater Proj:  202475601",
+   5
+  ],
+  [
+   "Wastewater:  202263906",
+   5
+  ],
+  [
+   "Wastewater: 202474414",
+   5
+  ],
+  [
+   "WO#222202",
+   5
+  ],
+  [
+   "WWM Sam Pavonne",
+   5
+  ],
+  [
+   "Xcel Outdoor Lighting Group",
+   5
+  ],
+  [
+   "10003318",
+   4
+  ],
+  [
+   "201948329",
+   4
+  ],
+  [
+   "202055847",
+   4
+  ],
+  [
+   "202057327",
+   4
+  ],
+  [
+   "2022 Denver Micromobility Program",
+   4
+  ],
+  [
+   "202263254",
+   4
+  ],
+  [
+   "20250000132",
+   4
+  ],
+  [
+   "3018213",
+   4
+  ],
+  [
+   "Amy Sthrouthopoulos",
+   4
+  ],
+  [
+   "Annual Valet",
+   4
+  ],
+  [
+   "Bike Lanes",
+   4
+  ],
+  [
+   "C 70 project",
+   4
+  ],
+  [
+   "CCD (Surveying)",
+   4
+  ],
+  [
+   "CCD Transportation",
+   4
+  ],
+  [
+   "CDOT:  25871",
+   4
+  ],
+  [
+   "Compensation for roadway repair due to ",
+   4
+  ],
+  [
+   "COVIDRES13016742",
+   4
+  ],
+  [
+   "COVIDRES13019777",
+   4
+  ],
+  [
+   "COVIDRES13020844",
+   4
+  ],
+  [
+   "COVIDRES13021730",
+   4
+  ],
+  [
+   "COVIDRES13022351",
+   4
+  ],
+  [
+   "COVIDRES13026340",
+   4
+  ],
+  [
+   "COVIDRES13032551",
+   4
+  ],
+  [
+   "COVIDRES13067204",
+   4
+  ],
+  [
+   "COVIDRES13110247",
+   4
+  ],
+  [
+   "COVIDRES13111088",
+   4
+  ],
+  [
+   "Curb & Gutter , Sidewalk",
+   4
+  ],
+  [
+   "Denver Water ALSLR 2022",
+   4
+  ],
+  [
+   "Denver Zoo",
+   4
+  ],
+  [
+   "derek miles",
+   4
+  ],
+  [
+   "DOTI Green Infrastructure",
+   4
+  ],
+  [
+   "DOTI202160479",
+   4
+  ],
+  [
+   "DOTI-202371989",
+   4
+  ],
+  [
+   "DPR Forestry",
+   4
+  ],
+  [
+   "DURA Affordable Housing",
+   4
+  ],
+  [
+   "EXTENDING PERMIT TO TAKE ADVANTAGE OF G",
+   4
+  ],
+  [
+   "Extra Alley and alley entrance",
+   4
+  ],
+  [
+   "Fees waived per Moses Valdez",
+   4
+  ],
+  [
+   "FEES WAIVED TO COMPENSATE CONTRACTOR FO",
+   4
+  ],
+  [
+   "Final Acceptance Punch List Repairs.",
+   4
+  ],
+  [
+   "Forestry - Jim Myer",
+   4
+  ],
+  [
+   "Forestry UTFI",
+   4
+  ],
+  [
+   "Green Infra:  2018-PROJMSTR-0000318",
+   4
+  ],
+  [
+   "Greenhouse - Drew Barber",
+   4
+  ],
+  [
+   "HIRP",
+   4
+  ],
+  [
+   "Hydrant replacement",
+   4
+  ],
+  [
+   "installing infrastructure for city",
+   4
+  ],
+  [
+   "Lead Pipe ALSLR",
+   4
+  ],
+  [
+   "Mat Flores 202055093",
+   4
+  ],
+  [
+   "New Dates for 2023-PW-0006422",
+   4
+  ],
+  [
+   "NO FEE OUTDOOR LIGHTING",
+   4
+  ],
+  [
+   "occupancy only re-work",
+   4
+  ],
+  [
+   "Parks PO-00166206",
+   4
+  ],
+  [
+   "Parks Project:  PO-00169623",
+   4
+  ],
+  [
+   "Parks Project: PRJ-10005269",
+   4
+  ],
+  [
+   "payment received in check",
+   4
+  ],
+  [
+   "PDA INFRA:  2019-PRJMSTR-0000230",
+   4
+  ],
+  [
+   "PDA TRAN:  PRJ-00000406",
+   4
+  ],
+  [
+   "PO-00153084",
+   4
+  ],
+  [
+   "REMOVAL AND REPLACEMENT OF ADDITIONAL S",
+   4
+  ],
+  [
+   "ROW improvements per Nathan Armijo",
+   4
+  ],
+  [
+   "RTD 15 L Project",
+   4
+  ],
+  [
+   "Signals & SW",
+   4
+  ],
+  [
+   "St Maint -  Lawrence Alcaraz",
+   4
+  ],
+  [
+   "St Maint - Derek Miles",
+   4
+  ],
+  [
+   "St Maint Amy Strouthopoulos",
+   4
+  ],
+  [
+   "St Maint Lawrence Alcaraz",
+   4
+  ],
+  [
+   "St Maint: 202579243",
+   4
+  ],
+  [
+   "Storm Sewer",
+   4
+  ],
+  [
+   "Street Maint : 202683590",
+   4
+  ],
+  [
+   "Street Maint:  WO#260115",
+   4
+  ],
+  [
+   "Survey Project:  202684087",
+   4
+  ],
+  [
+   "Survey Tim Sherlock + St Maint - Nick S",
+   4
+  ],
+  [
+   "Traffic Operations:  20258162",
+   4
+  ],
+  [
+   "Transport - Ken Magee",
+   4
+  ],
+  [
+   "Transportation Project:  191436",
+   4
+  ],
+  [
+   "Transportation Project:  202158040",
+   4
+  ],
+  [
+   "Transportation Project:  202475225",
+   4
+  ],
+  [
+   "Transportation:  202580920",
+   4
+  ],
+  [
+   "Transportation:  PRJ-10005983",
+   4
+  ],
+  [
+   "Transportation: OC#202368832",
+   4
+  ],
+  [
+   "Transportation: SC-00010988/202580920",
+   4
+  ],
+  [
+   "Transportion",
+   4
+  ],
+  [
+   "Utility",
+   4
+  ],
+  [
+   "WARRANTY REPAIRS FOR FINAL ACCEPTANCE.",
+   4
+  ],
+  [
+   "Warranty Work",
+   4
+  ],
+  [
+   "Wastewater 2019-PRJMSTR-0000230",
+   4
+  ],
+  [
+   "Wastewater 202476788",
+   4
+  ],
+  [
+   "Wastewater Proj:  202263906",
+   4
+  ],
+  [
+   "Wastewater Project:  202367723",
+   4
+  ],
+  [
+   "Wastewater: 10231",
+   4
+  ],
+  [
+   "Wastewater: 20250000132",
+   4
+  ],
+  [
+   "WWM Blake Russo Nixon",
+   4
+  ],
+  [
+   "WWM Caitlyn Wolff",
+   4
+  ],
+  [
+   "Xcel 135",
+   4
+  ],
+  [
+   "Xcel Billed - New Dates",
+   4
+  ],
+  [
+   "XCEL Energy Billed",
+   4
+  ],
+  [
+   "Xcel lighting maint",
+   4
+  ],
+  [
+   "Xcel street light 1%",
+   4
+  ],
+  [
+   "(infrastructure improvements per Bernar",
+   3
+  ],
+  [
+   "10003393",
+   3
+  ],
+  [
+   "1200 N Syracuse ST - DW ALSLR (Lead Lin",
+   3
+  ],
+  [
+   "133",
+   3
+  ],
+  [
+   "201844724",
+   3
+  ],
+  [
+   "2018-PM-00000086",
+   3
+  ],
+  [
+   "2023-CIP-0000146",
+   3
+  ],
+  [
+   "572 potomac st APT K",
+   3
+  ],
+  [
+   "Amy Strouthopoulos 720-766-5140",
+   3
+  ],
+  [
+   "Arts & venue",
+   3
+  ],
+  [
+   "Arts & Venues",
+   3
+  ],
+  [
+   "Botanic Gardens",
+   3
+  ],
+  [
+   "CCD Suvey",
+   3
+  ],
+  [
+   "CDOT Andrea Hebard",
+   3
+  ],
+  [
+   "CDOT Permit",
+   3
+  ],
+  [
+   "City Library Project",
+   3
+  ],
+  [
+   "Colorado Convention Center",
+   3
+  ],
+  [
+   "COVIDRES13017405",
+   3
+  ],
+  [
+   "COVIDRES13019867",
+   3
+  ],
+  [
+   "COVIDRES13022289",
+   3
+  ],
+  [
+   "COVIDRES13144820",
+   3
+  ],
+  [
+   "CPM",
+   3
+  ],
+  [
+   "CPM Facilites",
+   3
+  ],
+  [
+   "CPM TES",
+   3
+  ],
+  [
+   "Denver Micromobility Program",
+   3
+  ],
+  [
+   "Denver Water ALSLR Lead Line Replacemen",
+   3
+  ],
+  [
+   "Denver Water Restoration",
+   3
+  ],
+  [
+   "DHA project",
+   3
+  ],
+  [
+   "doing extra infrastructure for city",
+   3
+  ],
+  [
+   "DOTI Green Infrastrucutre",
+   3
+  ],
+  [
+   "DPD",
+   3
+  ],
+  [
+   "DPR _Forestry",
+   3
+  ],
+  [
+   "DW ALSLR (Lead Line Project) Phase 4 Sy",
+   3
+  ],
+  [
+   "FEES WAIVED FOR WARRANTY WORK.",
+   3
+  ],
+  [
+   "Forestry-Jim Myer",
+   3
+  ],
+  [
+   "Gaby Serrado 303.446.3486",
+   3
+  ],
+  [
+   "homeowner permit doing work self",
+   3
+  ],
+  [
+   "HOST Office",
+   3
+  ],
+  [
+   "HOST-202264595 Affordable Housing",
+   3
+  ],
+  [
+   "James Meade",
+   3
+  ],
+  [
+   "Matt Fariss",
+   3
+  ],
+  [
+   "Out Door Lighting",
+   3
+  ],
+  [
+   "Parks: PRJ-10005705",
+   3
+  ],
+  [
+   "Parks-2025826-00",
+   3
+  ],
+  [
+   "payment taken through lockbox",
+   3
+  ],
+  [
+   "PDA INFRA: 202578991",
+   3
+  ],
+  [
+   "Per Bernard Chavez R.O.W. Improvements",
+   3
+  ],
+  [
+   "Per Michael Holm/Trinidad Torres",
+   3
+  ],
+  [
+   "Per Todd Richardson fees waived",
+   3
+  ],
+  [
+   "Punch Items",
+   3
+  ],
+  [
+   "Punch List - Weather date change 2023-P",
+   3
+  ],
+  [
+   "Richard Abeyta",
+   3
+  ],
+  [
+   "RiNo Promenade",
+   3
+  ],
+  [
+   "Robinson Park",
+   3
+  ],
+  [
+   "Sam Pavone",
+   3
+  ],
+  [
+   "SEE CONDITIONS.   CREDIT APPLIED.",
+   3
+  ],
+  [
+   "St Main",
+   3
+  ],
+  [
+   "St Maint - L Alcaraz+ I. Manny Windhorst",
+   3
+  ],
+  [
+   "St Maint: 202682896",
+   3
+  ],
+  [
+   "St Maint: Medians",
+   3
+  ],
+  [
+   "STREET LIGHT REPLACEMENT",
+   3
+  ],
+  [
+   "Street Lighting",
+   3
+  ],
+  [
+   "Street Maint: 202477112",
+   3
+  ],
+  [
+   "Street Maint: 202683426",
+   3
+  ],
+  [
+   "Street Maintenance 720-337-1184",
+   3
+  ],
+  [
+   "Striping and Signage",
+   3
+  ],
+  [
+   "Stt Maint: 260110 Overland",
+   3
+  ],
+  [
+   "Survey Project:  DOTI-202369451",
+   3
+  ],
+  [
+   "TRAN Proj:  2023-CIP-0000146",
+   3
+  ],
+  [
+   "Trans DOTI-PRJ-10002486",
+   3
+  ],
+  [
+   "Transportation:  1% UG",
+   3
+  ],
+  [
+   "Transportation:  202366828",
+   3
+  ],
+  [
+   "TRANSPORTATION:  2023-CIP-0000146",
+   3
+  ],
+  [
+   "Transportation:  PRJ-10005336",
+   3
+  ],
+  [
+   "Transportation:  PRJ-10005736",
+   3
+  ],
+  [
+   "Transportation: 201948462",
+   3
+  ],
+  [
+   "TRANSPORTATION: PRJ-10001304",
+   3
+  ],
+  [
+   "Transportation: PWT2016-003",
+   3
+  ],
+  [
+   "WARRANTY PUNCH LIST REPAIRS.",
+   3
+  ],
+  [
+   "WARRANTY REPAIRS.  FEES WAIVED.",
+   3
+  ],
+  [
+   "Wastewater project",
+   3
+  ],
+  [
+   "Wastewater XCEL Billed",
+   3
+  ],
+  [
+   "Wastewater:   202476788",
+   3
+  ],
+  [
+   "Wastewater:  202056621",
+   3
+  ],
+  [
+   "Wastewater:  202580919",
+   3
+  ],
+  [
+   "Wastewater: 202264889",
+   3
+  ],
+  [
+   "Wastewater: 202475601",
+   3
+  ],
+  [
+   "Wastewater: 202580919",
+   3
+  ],
+  [
+   "Wastewater: 202582818",
+   3
+  ],
+  [
+   "WO25163666",
+   3
+  ],
+  [
+   "WWM - Caitlin Wolff",
+   3
+  ],
+  [
+   "WWM Jim Cokeley",
+   3
+  ],
+  [
+   "WWM Stephen Choi",
+   3
+  ],
+  [
+   "XCEL 1% job",
+   3
+  ],
+  [
+   "XCEL ENERGY/OUTDOOR LIGHTING GROUP",
+   3
+  ],
+  [
+   "XCEL Light INstall",
+   3
+  ],
+  [
+   "1 % LED upgarde",
+   2
+  ],
+  [
+   "1%  UG",
+   2
+  ],
+  [
+   "1% LED Upgrade",
+   2
+  ],
+  [
+   "107426195",
+   2
+  ],
+  [
+   "132 Ft. Curb and Gutter",
+   2
+  ],
+  [
+   "2015-PROJMSTR-0000155",
+   2
+  ],
+  [
+   "201739184",
+   2
+  ],
+  [
+   "-2019 WIP Support",
+   2
+  ],
+  [
+   "2020-0000336",
+   2
+  ],
+  [
+   "2020-CIP-0000141",
+   2
+  ],
+  [
+   "202159727",
+   2
+  ],
+  [
+   "202160979 - 56th Widening",
+   2
+  ],
+  [
+   "2022-CIP-0000149",
+   2
+  ],
+  [
+   "2022-PROJMSTR-000029",
+   2
+  ],
+  [
+   "2023-CIP-0000019",
+   2
+  ],
+  [
+   "56th Ave Expansion",
+   2
+  ],
+  [
+   "ACCEPTANCE/WARRANTY REPAIRS",
+   2
+  ],
+  [
+   "Affordable Housing Project",
+   2
+  ],
+  [
+   "Alley Replacement",
+   2
+  ],
+  [
+   "ALSLR",
+   2
+  ],
+  [
+   "ALSLR for Denver Water",
+   2
+  ],
+  [
+   "ALSLR lead line service for Denver Wate",
+   2
+  ],
+  [
+   "Arapahoe Permit - Informational only",
+   2
+  ],
+  [
+   "BILLED - DUMPSTER",
+   2
+  ],
+  [
+   "Brendan Picker",
+   2
+  ],
+  [
+   "Bridge: 202371989",
+   2
+  ],
+  [
+   "BRIDGE: PRJ-10006770",
+   2
+  ],
+  [
+   "CCD CREDIT",
+   2
+  ],
+  [
+   "CCD FIRE STATION PROJECT.",
+   2
+  ],
+  [
+   "CCD Surveying",
+   2
+  ],
+  [
+   "CCD Wastewater",
+   2
+  ],
+  [
+   "CDOT Bradley Wood",
+   2
+  ],
+  [
+   "CDOT Bridge",
+   2
+  ],
+  [
+   "CDOT Jason Lucerna",
+   2
+  ],
+  [
+   "CDOT Permitted",
+   2
+  ],
+  [
+   "CDOT PROJECTJohnny Ortega C 303.902.141",
+   2
+  ],
+  [
+   "CDOT Road - Tacking ONLY",
+   2
+  ],
+  [
+   "Charity",
+   2
+  ],
+  [
+   "CIPP",
+   2
+  ],
+  [
+   "City of Aurora Muni Work",
+   2
+  ],
+  [
+   "City PDA Infra Project:  202367858",
+   2
+  ],
+  [
+   "City Project:  2020-0000336",
+   2
+  ],
+  [
+   "City Project: 2022-PROJMSTR0000639",
+   2
+  ],
+  [
+   "City Survey Project:  202476865",
+   2
+  ],
+  [
+   "CM Facilities",
+   2
+  ],
+  [
+   "Colorado Boring",
+   2
+  ],
+  [
+   "Container Billed",
+   2
+  ],
+  [
+   "CONTRACTOR IS REPARING ROAD  DUE TO DW ",
+   2
+  ],
+  [
+   "COVIDRES 13123202",
+   2
+  ],
+  [
+   "COVIDRES13016946",
+   2
+  ],
+  [
+   "COVIDRES13019933",
+   2
+  ],
+  [
+   "COVIDRES13020989",
+   2
+  ],
+  [
+   "COVIDRES13024050",
+   2
+  ],
+  [
+   "COVIDRES13024351",
+   2
+  ],
+  [
+   "COVIDRES13024615",
+   2
+  ],
+  [
+   "COVIDRES13031635",
+   2
+  ],
+  [
+   "COVIDRES13111059",
+   2
+  ],
+  [
+   "COVIDRES13137180",
+   2
+  ],
+  [
+   "CPM Facilitites",
+   2
+  ],
+  [
+   "CPM Trans 202157899",
+   2
+  ],
+  [
+   "CPM Transportation:  202264125",
+   2
+  ],
+  [
+   "Credit",
+   2
+  ],
+  [
+   "CSAR Project:  PRJ-10005490",
+   2
+  ],
+  [
+   "DAMAGE REPAIRS FOR ACCEPTANCE.",
+   2
+  ],
+  [
+   "DCW Credit",
+   2
+  ],
+  [
+   "DEH - Andy Whitty 720-865-5519",
+   2
+  ],
+  [
+   "Denver Bridge Engineers",
+   2
+  ],
+  [
+   "Denver Housing Auth.",
+   2
+  ],
+  [
+   "Denver Parks - Foresty",
+   2
+  ],
+  [
+   "Denver Public Schools - 720-423-4020",
+   2
+  ],
+  [
+   "Denver Transit",
+   2
+  ],
+  [
+   "Denver Water - Survey",
+   2
+  ],
+  [
+   "DIA",
+   2
+  ],
+  [
+   "DOTI - Bridges",
+   2
+  ],
+  [
+   "DOTI - IPM-Scott Dickerson",
+   2
+  ],
+  [
+   "DOTI Chris Best",
+   2
+  ],
+  [
+   "DOTI PDA - John LaSala",
+   2
+  ],
+  [
+   "DOTI PDA OM Capital",
+   2
+  ],
+  [
+   "DOTI PDA TRAN BT Inspection A",
+   2
+  ],
+  [
+   "DOTI Surveying",
+   2
+  ],
+  [
+   "DOTI-202160233",
+   2
+  ],
+  [
+   "DPR - Greenhouse Drew Barber",
+   2
+  ],
+  [
+   "DPR Project",
+   2
+  ],
+  [
+   "DPR Stephanie Wong",
+   2
+  ],
+  [
+   "DPS",
+   2
+  ],
+  [
+   "DPS - Non Exempt",
+   2
+  ],
+  [
+   "DPS Jim Staples",
+   2
+  ],
+  [
+   "Drainage channel Maintenance",
+   2
+  ],
+  [
+   "DUMPSTER BILLED",
+   2
+  ],
+  [
+   "DW Exempt",
+   2
+  ],
+  [
+   "Ecxl",
+   2
+  ],
+  [
+   "Exempt Code #10",
+   2
+  ],
+  [
+   "Exempt Code 10 - Denver Water",
+   2
+  ],
+  [
+   "Facilities: 202581170",
+   2
+  ],
+  [
+   "Facilities: WO#  202685833",
+   2
+  ],
+  [
+   "Fee paid on 2024-PW-0016052",
+   2
+  ],
+  [
+   "Fees paid on 2025-PW-0006509",
+   2
+  ],
+  [
+   "Fees Paid on permit 2019-pw-0025749",
+   2
+  ],
+  [
+   "Fees pd on 2022-PW-0027330",
+   2
+  ],
+  [
+   "FEES WAIVED FOR COMPENSATION OF ROADWAY",
+   2
+  ],
+  [
+   "fees waived for home owner wanting to d",
+   2
+  ],
+  [
+   "Fees waived per B Chavez DPS",
+   2
+  ],
+  [
+   "fixing damaged road for another contrac",
+   2
+  ],
+  [
+   "Forestry Ops OPS TN-25-004",
+   2
+  ],
+  [
+   "Forestry Project:  TN-24-142",
+   2
+  ],
+  [
+   "Forestry:  OPS 20250910",
+   2
+  ],
+  [
+   "Forestry: 202582624",
+   2
+  ],
+  [
+   "Forestry: PO-00151964",
+   2
+  ],
+  [
+   "Fred Thomas Park",
+   2
+  ],
+  [
+   "Gary Padilla",
+   2
+  ],
+  [
+   "Geotechnical Drilling",
+   2
+  ],
+  [
+   "Green Infrastrucutre",
+   2
+  ],
+  [
+   "Homeowner",
+   2
+  ],
+  [
+   "HOMEOWNER PERMIT",
+   2
+  ],
+  [
+   "HOST HO RH Asset Management",
+   2
+  ],
+  [
+   "INITIAL ACCEPTANCE PUNCH LIST REPAIRS",
+   2
+  ],
+  [
+   "INITIAL ACCEPTANCE PUNCH LIST REPAIRS.",
+   2
+  ],
+  [
+   "Initial Acceptance Repairs",
+   2
+  ],
+  [
+   "installing a large amount of ROW work f",
+   2
+  ],
+  [
+   "Iron Woman",
+   2
+  ],
+  [
+   "Jessica Barbler 303.628.6605",
+   2
+  ],
+  [
+   "Laura  Wasson 720-932-1538",
+   2
+  ],
+  [
+   "lead Line service",
+   2
+  ],
+  [
+   "LED upgrades",
+   2
+  ],
+  [
+   "MLB ASG - Sheridan Hotel",
+   2
+  ],
+  [
+   "new infrastructure being done",
+   2
+  ],
+  [
+   "Nick Tolle",
+   2
+  ],
+  [
+   "no fee lighting",
+   2
+  ],
+  [
+   "No Fees",
+   2
+  ],
+  [
+   "Norm Shaw",
+   2
+  ],
+  [
+   "OCA Grant Recipiant",
+   2
+  ],
+  [
+   "Outdoor Street Lighting Group- contact ",
+   2
+  ],
+  [
+   "Parks",
+   2
+  ],
+  [
+   "Parks 2022-CIP-0000273",
+   2
+  ],
+  [
+   "Parks Project:  PRJ-10005716",
+   2
+  ],
+  [
+   "Parks Project: PRJ-10003616",
+   2
+  ],
+  [
+   "Parks:  202580714",
+   2
+  ],
+  [
+   "Parks:  PO-00131982",
+   2
+  ],
+  [
+   "Parks:  PRJ-10005564",
+   2
+  ],
+  [
+   "PARKS: PRJ-10003616",
+   2
+  ],
+  [
+   "Parks:PRJ-10005628",
+   2
+  ],
+  [
+   "PAYMETN GLITCH",
+   2
+  ],
+  [
+   "PDA INFRA PO-00129227",
+   2
+  ],
+  [
+   "PDA INFRA Project:  5951",
+   2
+  ],
+  [
+   "PDA INFRA:   202473206 TO#3",
+   2
+  ],
+  [
+   "PDA TRAN: 202263102",
+   2
+  ],
+  [
+   "PDA TRANSPORTATION - 10003318",
+   2
+  ],
+  [
+   "Per Bernard Chavez",
+   2
+  ],
+  [
+   "PRJ-10000095",
+   2
+  ],
+  [
+   "PRJ-10005290",
+   2
+  ],
+  [
+   "PUNCH LIST REPAIRS FOR INITIAL ACCEPTAN",
+   2
+  ],
+  [
+   "PUNCHLIST REPAIRS FOR IA.",
+   2
+  ],
+  [
+   "PWADM-201631681",
+   2
+  ],
+  [
+   "PWADM-201948462-00",
+   2
+  ],
+  [
+   "range box installation",
+   2
+  ],
+  [
+   "RECOUP OF COSTS FOR STREET REPAIRS DUE ",
+   2
+  ],
+  [
+   "Replacing Cross pan and Ramps",
+   2
+  ],
+  [
+   "Restoration",
+   2
+  ],
+  [
+   "RESTORATION FOR PERMIT 2023-PW-0019978",
+   2
+  ],
+  [
+   "Roadway/ROW currently not accepted",
+   2
+  ],
+  [
+   "ROW is not currently accepted.",
+   2
+  ],
+  [
+   "RTD 15L Project",
+   2
+  ],
+  [
+   "RTD 15L Project Fee Exempt",
+   2
+  ],
+  [
+   "Sign Replacement",
+   2
+  ],
+  [
+   "Signal Project",
+   2
+  ],
+  [
+   "signals - Michelle Melonakis",
+   2
+  ],
+  [
+   "Special Event",
+   2
+  ],
+  [
+   "St Maint:  WO# 250101-250102",
+   2
+  ],
+  [
+   "St Maint:  WO#250103",
+   2
+  ],
+  [
+   "St Maint: 202582303",
+   2
+  ],
+  [
+   "St Maintenance - L Alcaraz",
+   2
+  ],
+  [
+   "St Maintenance - Nick Armbrust",
+   2
+  ],
+  [
+   "Storm",
+   2
+  ],
+  [
+   "Street Maint:  202477068",
+   2
+  ],
+  [
+   "Street Maint:  250124",
+   2
+  ],
+  [
+   "Street Maintenance:   WO# 250211",
+   2
+  ],
+  [
+   "Survey:  202684087",
+   2
+  ],
+  [
+   "Survey: 202578987",
+   2
+  ],
+  [
+   "Surveying 202684087",
+   2
+  ],
+  [
+   "Surveying: 202684087",
+   2
+  ],
+  [
+   "Traffic Engineering: 0000053829",
+   2
+  ],
+  [
+   "Trails Project:  PRJ-10003692",
+   2
+  ],
+  [
+   "TRANS: 202368838",
+   2
+  ],
+  [
+   "TRANSPORTATION - PRJ-1001975",
+   2
+  ],
+  [
+   "Transportation Proj:  202158040",
+   2
+  ],
+  [
+   "Transportation Project:  OC# SC00010988",
+   2
+  ],
+  [
+   "Transportation:  202157899",
+   2
+  ],
+  [
+   "Transportation:  202368837",
+   2
+  ],
+  [
+   "Transportation:  202475612",
+   2
+  ],
+  [
+   "Transportation:  DOTI-191346",
+   2
+  ],
+  [
+   "Transportation:  PRJ-10005107",
+   2
+  ],
+  [
+   "Transportation:  PW-201948462",
+   2
+  ],
+  [
+   "Transportation: 10005676",
+   2
+  ],
+  [
+   "Transportation: 2025-PW-0015129",
+   2
+  ],
+  [
+   "Transportation: DOTI-PRJ-10002486",
+   2
+  ],
+  [
+   "TRANSPORTATION: PRJ-10005536",
+   2
+  ],
+  [
+   "WARRANTY REPAIRS BEING PERFORMED FOR FI",
+   2
+  ],
+  [
+   "WARRANTY WORK FOR FINAL ACCEPTANCE.",
+   2
+  ],
+  [
+   "Waster",
+   2
+  ],
+  [
+   "Wastewater WO#112427854",
+   2
+  ],
+  [
+   "Wastewater:  202263954",
+   2
+  ],
+  [
+   "Wastewater:  2022-PROJMSTR-0000072",
+   2
+  ],
+  [
+   "Wastewater:  2022-PROJMSTR-0000701",
+   2
+  ],
+  [
+   "Wastewater:  DOTI-202579302-00",
+   2
+  ],
+  [
+   "Wastewater:  PRJ-10004171",
+   2
+  ],
+  [
+   "Wastewater:  WO#112427854",
+   2
+  ],
+  [
+   "Wastewater: 202056612",
+   2
+  ],
+  [
+   "Wastewater: 202366347",
+   2
+  ],
+  [
+   "WASTEWATER: 202582875",
+   2
+  ],
+  [
+   "Wastewater: Jxn St Storm",
+   2
+  ],
+  [
+   "Waved per Moses",
+   2
+  ],
+  [
+   "WO#113298015",
+   2
+  ],
+  [
+   "WWM = Blake Russo-Nixon",
+   2
+  ],
+  [
+   "XCEL - BILLED",
+   2
+  ],
+  [
+   "xcel - outdoor lighting",
+   2
+  ],
+  [
+   "Xcel 1362",
+   2
+  ],
+  [
+   "xcel biled",
+   2
+  ],
+  [
+   "XCEL BILLED c",
+   2
+  ],
+  [
+   "XCEL BILLING",
+   2
+  ],
+  [
+   "xcel billled",
+   2
+  ],
+  [
+   "Xcel Energy Lighting",
+   2
+  ],
+  [
+   "Xcel replacing light bulbs",
+   2
+  ],
+  [
+   "#201632682,",
+   1
+  ],
+  [
+   "15 L RTD",
+   1
+  ],
+  [
+   "201631678",
+   1
+  ],
+  [
+   "202026022",
+   1
+  ],
+  [
+   "202053175",
+   1
+  ],
+  [
+   "202053601",
+   1
+  ],
+  [
+   "202053910",
+   1
+  ],
+  [
+   "202056841",
+   1
+  ],
+  [
+   "2020-CIP-0000075",
+   1
+  ],
+  [
+   "2020-PROJMSTR-0000062",
+   1
+  ],
+  [
+   "2020-projmstr-00003000",
+   1
+  ],
+  [
+   "2022-CIP-0000065",
+   1
+  ],
+  [
+   "2023 Parks Volunteer Program",
+   1
+  ],
+  [
+   "202580714",
+   1
+  ],
+  [
+   "22",
+   1
+  ],
+  [
+   "223002",
+   1
+  ],
+  [
+   "49th Pl is currently not accepted by CC",
+   1
+  ],
+  [
+   "5022164",
+   1
+  ],
+  [
+   "56th Ave Widening",
+   1
+  ],
+  [
+   "Affordable Housing Fees MOU waiver 2025",
+   1
+  ],
+  [
+   "Affordable Housing Fees waiver",
+   1
+  ],
+  [
+   "Already Paid",
+   1
+  ],
+  [
+   "ALSLR lead line replacement",
+   1
+  ],
+  [
+   "ALSLR Lead Line replacement Denver Wate",
+   1
+  ],
+  [
+   "ALSR Project",
+   1
+  ],
+  [
+   "approved by inspector",
+   1
+  ],
+  [
+   "Approved by Michael Holm",
+   1
+  ],
+  [
+   "Approved by Vince Rivera",
+   1
+  ],
+  [
+   "Approved per B Chavez",
+   1
+  ],
+  [
+   "Arts &Venue",
+   1
+  ],
+  [
+   "attach anodes for cathodic protection",
+   1
+  ],
+  [
+   "BILLED - XCEL",
+   1
+  ],
+  [
+   "BILLED XCEL",
+   1
+  ],
+  [
+   "Building Park",
+   1
+  ],
+  [
+   "Capital Project",
+   1
+  ],
+  [
+   "CCD & Arapahoe County project - fee exe",
+   1
+  ],
+  [
+   "CCD CIP for Dept Parks & Rec",
+   1
+  ],
+  [
+   "CCD PROJECT",
+   1
+  ],
+  [
+   "cctv installation",
+   1
+  ],
+  [
+   "CDOT = Kathryn Lyon, 303-757-9923, Kath",
+   1
+  ],
+  [
+   "CDOT 23554 - SH2",
+   1
+  ],
+  [
+   "CDOT exempt - tracking only",
+   1
+  ],
+  [
+   "CDOT Project:  C70",
+   1
+  ],
+  [
+   "CDPHE",
+   1
+  ],
+  [
+   "Chip Project",
+   1
+  ],
+  [
+   "CIP",
+   1
+  ],
+  [
+   "CIP John LaSala",
+   1
+  ],
+  [
+   "City Associated project in conjunction ",
+   1
+  ],
+  [
+   "City of Lakewood",
+   1
+  ],
+  [
+   "city project fees waived per Matt Bryne",
+   1
+  ],
+  [
+   "City Project: 2021-PROJMSTR-0000428",
+   1
+  ],
+  [
+   "City Project: Forestry Ops TN-23-048",
+   1
+  ],
+  [
+   "city upgrades",
+   1
+  ],
+  [
+   "Colorado Village Collaborative",
+   1
+  ],
+  [
+   "Construction Trailer",
+   1
+  ],
+  [
+   "CONTRACTOR IS REPAIRING ADDITIONAL C&G.",
+   1
+  ],
+  [
+   "COVIDRES13018053",
+   1
+  ],
+  [
+   "COVIDRES13019914",
+   1
+  ],
+  [
+   "COVIDRES13020926",
+   1
+  ],
+  [
+   "COVIDRES13024429",
+   1
+  ],
+  [
+   "COVIDRES13032489",
+   1
+  ],
+  [
+   "COVIDRES13035466",
+   1
+  ],
+  [
+   "COVIDRES13035488",
+   1
+  ],
+  [
+   "COVIDRES13112491",
+   1
+  ],
+  [
+   "COVIDRES13115282",
+   1
+  ],
+  [
+   "COVIDRES13122146",
+   1
+  ],
+  [
+   "COVIDRES13171019",
+   1
+  ],
+  [
+   "COVIDRES13552548",
+   1
+  ],
+  [
+   "COVIDRES13713990",
+   1
+  ],
+  [
+   "CPM Facilities: 202578044",
+   1
+  ],
+  [
+   "CPM Lisa Hilt",
+   1
+  ],
+  [
+   "DDPHE Project:  2020-ESA-JOB-0687",
+   1
+  ],
+  [
+   "DDPHE:  PRJ-10005831",
+   1
+  ],
+  [
+   "denver",
+   1
+  ],
+  [
+   "DENVER  WATER",
+   1
+  ],
+  [
+   "Denver Development",
+   1
+  ],
+  [
+   "Denver Moicromobility Program",
+   1
+  ],
+  [
+   "Denver Water lead line",
+   1
+  ],
+  [
+   "Denver Water porject",
+   1
+  ],
+  [
+   "Denver Water Sub",
+   1
+  ],
+  [
+   "Derek Miles 720.951.6770",
+   1
+  ],
+  [
+   "Design issue",
+   1
+  ],
+  [
+   "DOTI Ilesia Curtis 720-341-3828",
+   1
+  ],
+  [
+   "DOTI PDA INFRA:  PRJ-10004184",
+   1
+  ],
+  [
+   "DOTI PDA Transportation:    202056565 T",
+   1
+  ],
+  [
+   "DOTI Transportation",
+   1
+  ],
+  [
+   "DOTI-202055954-00",
+   1
+  ],
+  [
+   "DOTI-202582647",
+   1
+  ],
+  [
+   "Downtown Denver Partnership",
+   1
+  ],
+  [
+   "DPR Drew Barber",
+   1
+  ],
+  [
+   "DPR Event",
+   1
+  ],
+  [
+   "DPR Harry Hill",
+   1
+  ],
+  [
+   "DUMPSTER BILLING",
+   1
+  ],
+  [
+   "DUPLICATE",
+   1
+  ],
+  [
+   "DW = Chad Phillips",
+   1
+  ],
+  [
+   "Extra work not on plan set.",
+   1
+  ],
+  [
+   "FACILITIES WO# 202685833",
+   1
+  ],
+  [
+   "FEE  EXEMPT",
+   1
+  ],
+  [
+   "fees waived city upgrades",
+   1
+  ],
+  [
+   "fees waived per Bernard Chavez",
+   1
+  ],
+  [
+   "Fees waived to comp repair costs due to",
+   1
+  ],
+  [
+   "Fees wived for pouring new sidewalk per",
+   1
+  ],
+  [
+   "FINAL ACCEPTANCE.  WARRANTY REPAIRS.",
+   1
+  ],
+  [
+   "Forestry OPS TN-25-065",
+   1
+  ],
+  [
+   "Forestry Ops TN-25-184",
+   1
+  ],
+  [
+   "Forestry:  20244473498",
+   1
+  ],
+  [
+   "Forestry:  OPS TN-25-011",
+   1
+  ],
+  [
+   "Forestry: Grid Pruning 2025",
+   1
+  ],
+  [
+   "Forestry: TN-26-169",
+   1
+  ],
+  [
+   "Home owner moving truck",
+   1
+  ],
+  [
+   "home owner permit",
+   1
+  ],
+  [
+   "home owner repair",
+   1
+  ],
+  [
+   "Homeless Showers",
+   1
+  ],
+  [
+   "housing stability",
+   1
+  ],
+  [
+   "housing stability fees waived",
+   1
+  ],
+  [
+   "Housing Stablity",
+   1
+  ],
+  [
+   "I70 Project",
+   1
+  ],
+  [
+   "Ilesia Curtis",
+   1
+  ],
+  [
+   "Inlet Construction",
+   1
+  ],
+  [
+   "IPM Lisa Hilt",
+   1
+  ],
+  [
+   "Jennifer Olson",
+   1
+  ],
+  [
+   "Jessica Barbier 303.628.6605",
+   1
+  ],
+  [
+   "Kenneth Kochevar, 720-913-4593, kenneth",
+   1
+  ],
+  [
+   "lead service",
+   1
+  ],
+  [
+   "Lisa Hilt",
+   1
+  ],
+  [
+   "LLR",
+   1
+  ],
+  [
+   "Long term valet",
+   1
+  ],
+  [
+   "Median Maintenance",
+   1
+  ],
+  [
+   "Micromobility Pilot",
+   1
+  ],
+  [
+   "Mike Lopez",
+   1
+  ],
+  [
+   "MLB ASG - Catch a Chevy",
+   1
+  ],
+  [
+   "MLB ASG - Mural at 20th and Blake",
+   1
+  ],
+  [
+   "Morgan Lynch 303-749-5446",
+   1
+  ],
+  [
+   "No additional valet permit fee",
+   1
+  ],
+  [
+   "No Fee - Outdoor Lighting - Replace Str",
+   1
+  ],
+  [
+   "NO FEE STREET LIGHTING",
+   1
+  ],
+  [
+   "Occupancy for Habitat for Humanity",
+   1
+  ],
+  [
+   "Online submittal",
+   1
+  ],
+  [
+   "Outdoor Lighting - Terri Goodwin",
+   1
+  ],
+  [
+   "paid 2020-pw-0013144",
+   1
+  ],
+  [
+   "Paid for by 2026-PW-0018887",
+   1
+  ],
+  [
+   "Paid for with 2022-PW-0006742",
+   1
+  ],
+  [
+   "Parks and Recreation",
+   1
+  ],
+  [
+   "Parks PO-00164046",
+   1
+  ],
+  [
+   "Parks Project",
+   1
+  ],
+  [
+   "Parks Project:  202371367-01",
+   1
+  ],
+  [
+   "Parks Project:  PO-00131982",
+   1
+  ],
+  [
+   "Parks Project:  PRJ-10004827",
+   1
+  ],
+  [
+   "Parks Project:  PRJ-10005564",
+   1
+  ],
+  [
+   "Parks Project:  PRJ-10005628",
+   1
+  ],
+  [
+   "Parks:  PRJ-10005705",
+   1
+  ],
+  [
+   "PDA INFRA Project:  202368834",
+   1
+  ],
+  [
+   "PDA iNFRA:  202473833",
+   1
+  ],
+  [
+   "PDA INFRA: PRJ-10005650",
+   1
+  ],
+  [
+   "PDA TRAN: 579749-WO#6",
+   1
+  ],
+  [
+   "PDA Transportation:  202160979",
+   1
+  ],
+  [
+   "PDA Transportation:  202368838",
+   1
+  ],
+  [
+   "PERMIT ISSUED PREVIOUSLY.  NOT USED.",
+   1
+  ],
+  [
+   "Peter Baertlein",
+   1
+  ],
+  [
+   "Phase 1 Highline Canal Project",
+   1
+  ],
+  [
+   "Pothole",
+   1
+  ],
+  [
+   "Private road Not accepted by CCD",
+   1
+  ],
+  [
+   "PUNCH LIST REPAIR WORK FOR INITIAL ACCE",
+   1
+  ],
+  [
+   "Punchlist Items",
+   1
+  ],
+  [
+   "re-do alley entrance - AE",
+   1
+  ],
+  [
+   "Roadways not accepted as CCD ROW.",
+   1
+  ],
+  [
+   "ROWE",
+   1
+  ],
+  [
+   "Ryan Crum",
+   1
+  ],
+  [
+   "Sewer Resto",
+   1
+  ],
+  [
+   "Sidewalk Repair",
+   1
+  ],
+  [
+   "St Maint - Manny Windhorst",
+   1
+  ],
+  [
+   "St Maint:  Track Removal",
+   1
+  ],
+  [
+   "Street Maint Project: 202477068",
+   1
+  ],
+  [
+   "Street Maint:  202579243",
+   1
+  ],
+  [
+   "Street Maint:  Medians",
+   1
+  ],
+  [
+   "Street Maint: 202477465",
+   1
+  ],
+  [
+   "Street Maint: 250216",
+   1
+  ],
+  [
+   "Street Maintenance:  202472628",
+   1
+  ],
+  [
+   "Street Maintenance:  202579243",
+   1
+  ],
+  [
+   "Student Project per Michael Holms",
+   1
+  ],
+  [
+   "Survey Project:  202476865",
+   1
+  ],
+  [
+   "Survey Project:  PRJ-10005317",
+   1
+  ],
+  [
+   "Survey:  2023371679",
+   1
+  ],
+  [
+   "Surveyiong",
+   1
+  ],
+  [
+   "TEMP EXPANSION",
+   1
+  ],
+  [
+   "Temp OP Permit",
+   1
+  ],
+  [
+   "TEMPORARY EXPANSION 13035721",
+   1
+  ],
+  [
+   "Traffic Engineering:  202685163",
+   1
+  ],
+  [
+   "TRAFFIC:  DOTI-PRJ-10002486",
+   1
+  ],
+  [
+   "Transportation Micromobility",
+   1
+  ],
+  [
+   "TRANSPORTATION PRJ-10002486",
+   1
+  ],
+  [
+   "Transportation Project:  202368837",
+   1
+  ],
+  [
+   "Transportation:  2021160979",
+   1
+  ],
+  [
+   "Transportation: 202368837",
+   1
+  ],
+  [
+   "Trnasportation",
+   1
+  ],
+  [
+   "VMS Sign Repair",
+   1
+  ],
+  [
+   "Volunteer parking on Little Raven (19th",
+   1
+  ],
+  [
+   "WARRANTY REPAIR.  FEES WAIVED.",
+   1
+  ],
+  [
+   "WARRANTY WORK.",
+   1
+  ],
+  [
+   "Wastewater - 202026022",
+   1
+  ],
+  [
+   "Wastewater 202157591 (PRJ-10003635)",
+   1
+  ],
+  [
+   "Wastewater 202157899",
+   1
+  ],
+  [
+   "WASTEWATER MANAGEMENT",
+   1
+  ],
+  [
+   "Wastewater Project:  108850606",
+   1
+  ],
+  [
+   "Wastewater Project:  2022-PROJMSTR-0000",
+   1
+  ],
+  [
+   "Wastewater Project: 201736456",
+   1
+  ],
+  [
+   "Wastewater Project: 2023-PROJMSTR-00004",
+   1
+  ],
+  [
+   "Wastewater Project: 20250000132",
+   1
+  ],
+  [
+   "Wastewater:  202475601",
+   1
+  ],
+  [
+   "Wastewater: 2022639006",
+   1
+  ],
+  [
+   "Wastewater: 2023-PROJMSTR-0000444",
+   1
+  ],
+  [
+   "WASTEWATER: 202473941",
+   1
+  ],
+  [
+   "WASTEWATER: PRJ_10002061",
+   1
+  ],
+  [
+   "WO Continuing pipe work to Ivy Street P",
+   1
+  ],
+  [
+   "WO# 108247986",
+   1
+  ],
+  [
+   "WWM Jenn Williams",
+   1
+  ],
+  [
+   "WWM Sam Pavone, 303-880-2629",
+   1
+  ],
+  [
+   "XCED BILLED",
+   1
+  ],
+  [
+   "Xcel 1366",
+   1
+  ],
+  [
+   "Xcel AMRP",
+   1
+  ],
+  [
+   "XCEL BILLED Outdoor Lighting",
+   1
+  ],
+  [
+   "XCEL BILLED.  OUTDOOR LIGHTING.",
+   1
+  ],
+  [
+   "Xcel- Outdoor lighting",
+   1
+  ],
+  [
+   "Xcel Outdoor Lighting No Fee",
+   1
+  ],
+  [
+   "XCEL-BILLED",
+   1
+  ]
+ ],
+ "asit_type_counter": [
+  [
+   "1st Lane",
+   54326
+  ],
+  [
+   "Parking Lane",
+   31343
+  ],
+  [
+   "Residential - Parking Lane",
+   25366
+  ],
+  [
+   "Sidewalk - Residential",
+   25313
+  ],
+  [
+   "Residential - Full",
+   25079
+  ],
+  [
+   "Sidewalk - Collector/Arterial",
+   24116
+  ],
+  [
+   "Residential - Partial",
+   17688
+  ],
+  [
+   "Alley Residential - Partial",
+   12554
+  ],
+  [
+   "Residential - 1 Lane",
+   10162
+  ],
+  [
+   "Sidewalk - CBD/CC",
+   7766
+  ],
+  [
+   "Bike Lane",
+   7469
+  ],
+  [
+   "Alley Residential - Full",
+   5903
+  ],
+  [
+   "Detour",
+   4444
+  ],
+  [
+   "2nd Lane",
+   4128
+  ],
+  [
+   "Alley CBD/CC - Full",
+   1219
+  ],
+  [
+   "Alley CBD/CC - Partial",
+   1212
+  ],
+  [
+   "3rd Lane",
+   705
+  ],
+  [
+   "Sidewalk- Covered Coll/Art",
+   380
+  ],
+  [
+   "Sidewalk - Covered CBD/CC",
+   294
+  ],
+  [
+   null,
+   239
+  ],
+  [
+   "Sidewalk - Covered Residential",
+   173
+  ],
+  [
+   "4th Lane",
+   129
+  ],
+  [
+   "5th Lane",
+   44
+  ],
+  [
+   "6th Lane",
+   9
+  ]
+ ],
+ "gis_load_type_counter": [
+  [
+   "Simple street search",
+   183838
+  ],
+  [
+   "Connected segments SQL",
+   76201
+  ],
+  [
+   null,
+   22
+  ]
+ ],
+ "company_counter_top100": [
+  [
+   null,
+   48043
+  ],
+  [
+   "DENVER WATER BOARD",
+   22472
+  ],
+  [
+   "XCEL ENERGY-CENTRAL METRO",
+   22236
+  ],
+  [
+   "PAULEY CONSTRUCTION LLC",
+   11720
+  ],
+  [
+   "WYCO FIELD SERVICES INC",
+   7331
+  ],
+  [
+   "MEARS GROUP INC",
+   5376
+  ],
+  [
+   "XCEL ENERGY - AMRP/CAB",
+   5319
+  ],
+  [
+   "ADB COMPANIES INC",
+   5285
+  ],
+  [
+   "SITEWISE LLC",
+   5132
+  ],
+  [
+   "XCEL-RECON",
+   5084
+  ],
+  [
+   "STURGEON ELECTRIC COMPANY INC",
+   4986
+  ],
+  [
+   "SAGE TELECOMMUNICATIONS CORP",
+   4421
+  ],
+  [
+   "HOOPER CORPORATION",
+   4331
+  ],
+  [
+   "Q3 CONTRACTING INC",
+   4137
+  ],
+  [
+   "BLUESTREAM PROFESSIONAL SERVICE LLC",
+   2390
+  ],
+  [
+   "PODS INC",
+   2377
+  ],
+  [
+   "CABLECOM OF FLORIDA LLC",
+   2211
+  ],
+  [
+   "WESTERN STATES CONTRACTING CORP",
+   2065
+  ],
+  [
+   "HYDRODIG DENVER LLC",
+   1222
+  ],
+  [
+   "CCD (CPM Trans) & PCL",
+   1203
+  ],
+  [
+   "CCD (Transportation) & Sturgeon Electric Company Inc",
+   1173
+  ],
+  [
+   "APEX PLUMBING INC",
+   1101
+  ],
+  [
+   "CENTURYLINK COMMUNICATIONS LLC",
+   1068
+  ],
+  [
+   "BT CONSTRUCTION INC",
+   1037
+  ],
+  [
+   "ELITE PIPE MD LLC (THE)",
+   977
+  ],
+  [
+   "AFFORD-A-ROOTER",
+   945
+  ],
+  [
+   "MASTEC NORTH AMERICA INC",
+   926
+  ],
+  [
+   "1 STOP UTILITY & CONSTRUCTION SERVICES LLC",
+   909
+  ],
+  [
+   "XCEL-GATEWAY",
+   884
+  ],
+  [
+   "ITG Communications",
+   859
+  ],
+  [
+   "MILLER PIPELINE, LLC",
+   859
+  ],
+  [
+   "XCEL ENERGY-LDC",
+   857
+  ],
+  [
+   "RMS Cranes",
+   833
+  ],
+  [
+   "MOUNTAIN WIRELESS CONSTRUCTION INC",
+   792
+  ],
+  [
+   "TRENCH RIGHT LLC",
+   670
+  ],
+  [
+   "CCD (Street Maintenance)",
+   659
+  ],
+  [
+   "MENDOZA SEWER & WATER SERVICES INC",
+   635
+  ],
+  [
+   "HKS UTILITY SERVICES LLC",
+   600
+  ],
+  [
+   "SEFNCO COMMUNICATIONS INC",
+   594
+  ],
+  [
+   "CCD (CPM Trans) & Silva Construction Inc",
+   590
+  ],
+  [
+   "XCEL ENERGY-SOUTHEAST METRO",
+   583
+  ],
+  [
+   "D&D POWER LLC",
+   570
+  ],
+  [
+   "BROADBAND INTEGRATORS LLC",
+   562
+  ],
+  [
+   "CCD - Street Maintenance",
+   544
+  ],
+  [
+   "CCD (CPM WW) & Insituform Technologies Inc",
+   537
+  ],
+  [
+   "PIPELINE SOLUTIONS LP",
+   504
+  ],
+  [
+   "TRACE LLC",
+   501
+  ],
+  [
+   "XCEL ENERGY-NORTH METRO",
+   498
+  ],
+  [
+   "AGL CONSTRUCTION COMPANY",
+   483
+  ],
+  [
+   "SLO CO LLC",
+   482
+  ],
+  [
+   "XCEL ENERGY-CENTRAL METRO/Q3 CONTRACTING",
+   457
+  ],
+  [
+   "RIVERA FLATWORK CONCRETE LLC",
+   450
+  ],
+  [
+   "NACC CONSTRUCTION LLC",
+   445
+  ],
+  [
+   "M2 CONCRETE & EXCAVATING INC",
+   441
+  ],
+  [
+   "TAK COMMUNICATIONS INC",
+   435
+  ],
+  [
+   "WARD ELECTRIC COMPANY INC",
+   426
+  ],
+  [
+   "AARCO WIRELESS & ELECTRICAL SOLUTIONS CORP",
+   424
+  ],
+  [
+   "B-TEC INC",
+   417
+  ],
+  [
+   "SWI EXCAVATING",
+   417
+  ],
+  [
+   "ALL DEMOLITION EXCAVATING CO",
+   413
+  ],
+  [
+   "bob popp building services",
+   404
+  ],
+  [
+   "XCEL ENERGY-SOUTHWEST METRO",
+   404
+  ],
+  [
+   "MID CITY CORPORATION",
+   386
+  ],
+  [
+   "XCEL ENERGY-CENTRAL METRO/SITEWISE",
+   382
+  ],
+  [
+   "WAVELINK GROUP LLC",
+   359
+  ],
+  [
+   "5280 WASTE SOLUTIONS LLC",
+   350
+  ],
+  [
+   "ADVANCED UNDERGROUND INC",
+   349
+  ],
+  [
+   "ESS Metron",
+   336
+  ],
+  [
+   "South Pearl Street Farmers Market",
+   334
+  ],
+  [
+   "U HAUL",
+   334
+  ],
+  [
+   "DENVER CONCRETE WORKS INC",
+   326
+  ],
+  [
+   "PCL CONSTRUCTION SERVICES INC",
+   312
+  ],
+  [
+   "SEWER LINES ONLY LP",
+   311
+  ],
+  [
+   "M A MORTENSON COMPANY",
+   301
+  ],
+  [
+   "MILENDER WHITE CONSTRUCTION CO",
+   301
+  ],
+  [
+   "EASTEX TOWER LLC",
+   299
+  ],
+  [
+   "CCD - CONCRETE EXPRESS INC",
+   297
+  ],
+  [
+   "DENVER LUXURY BUILDERS LLC",
+   292
+  ],
+  [
+   "PIPE X LLC",
+   291
+  ],
+  [
+   "BLACKEAGLE ENERGY SERVICES",
+   286
+  ],
+  [
+   "DIVERSIFIED UNDERGROUND INC",
+   284
+  ],
+  [
+   "SWINERTON BUILDERS",
+   279
+  ],
+  [
+   "TENDIT GROUP",
+   274
+  ],
+  [
+   "CCD - SILVA CONSTRUCTION INC",
+   265
+  ],
+  [
+   "TRENCH RIGHT SPV LLC DBA TRENCH RIGHT COLORADO",
+   264
+  ],
+  [
+   "HASELDEN CONSTRUCTION LLC",
+   260
+  ],
+  [
+   "SAUNDERS CONSTRUCTION INC",
+   257
+  ],
+  [
+   "QWEST - NORTH OF ALAMEDA",
+   256
+  ],
+  [
+   "HENSEL PHELPS CONSTRUCTION CO",
+   247
+  ],
+  [
+   "PINKARD CONSTRUCTION CO",
+   246
+  ],
+  [
+   "CCD (CPM Trans) & Kraemer North America LLC",
+   241
+  ],
+  [
+   "R & D PIPELINE CONSTRUCTION INC",
+   238
+  ],
+  [
+   "CCD - KEENE CONCRETE",
+   233
+  ],
+  [
+   "TILSON TECHNOLOGY MANAGEMENT INC",
+   229
+  ],
+  [
+   "PLAINS CONTRACTING LLC",
+   227
+  ],
+  [
+   "STONE AND CONCRETE INC",
+   227
+  ],
+  [
+   "JUNIOR PLUMBING AND SERVICES LLC",
+   226
+  ],
+  [
+   "WEITZ COMPANY LLC (THE)",
+   221
+  ],
+  [
+   "5280 PIPELINE INC",
+   219
+  ],
+  [
+   "PUEBLO DRAIN AND EXCAVATION LLC",
+   219
+  ]
+ ]
+}

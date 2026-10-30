@@ -1,0 +1,119 @@
+{
+ "checks": [
+  {
+   "check": "rows_total",
+   "independent": 260061,
+   "stats_json": 260061,
+   "pass": true
+  },
+  {
+   "check": "distinct_permit_numbers",
+   "independent": 97538,
+   "stats_json": 97538,
+   "pass": true
+  },
+  {
+   "check": "valid_records",
+   "independent": 259284,
+   "stats_json": 259284,
+   "pass": true
+  },
+  {
+   "check": "total_segment_days",
+   "independent": 2595960,
+   "stats_json": 2595960,
+   "pass": true
+  },
+  {
+   "check": "median_days",
+   "independent": 3.0,
+   "stats_json": 3.0,
+   "pass": true
+  },
+  {
+   "check": "over_90_records",
+   "independent": 4537,
+   "stats_json": 4537,
+   "pass": true
+  },
+  {
+   "check": "over_90_segment_days",
+   "independent": 898253,
+   "stats_json": 898253,
+   "pass": true
+  },
+  {
+   "check": "over_90_segment_day_share_pct",
+   "independent": 34.6,
+   "stats_json": 34.6,
+   "pass": true
+  },
+  {
+   "check": "same_day_records",
+   "independent": 39933,
+   "stats_json": 39933,
+   "pass": true
+  },
+  {
+   "check": "active_on_pull_date",
+   "independent": 631,
+   "stats_json": 631,
+   "pass": true
+  },
+  {
+   "check": "purpose_known_2018",
+   "independent": 1,
+   "stats_json": 1,
+   "pass": true
+  },
+  {
+   "check": "purpose_known_2020",
+   "independent": 23972,
+   "stats_json": 23972,
+   "pass": true
+  },
+  {
+   "check": "purpose_known_2021",
+   "independent": 40756,
+   "stats_json": 40756,
+   "pass": true
+  },
+  {
+   "check": "records_2021_plus",
+   "independent": 187411,
+   "stats_json": 187411,
+   "pass": true
+  },
+  {
+   "check": "top_purpose_by_segment_days",
+   "independent": "ROW Construction",
+   "stats_json": "ROW Construction",
+   "pass": true
+  },
+  {
+   "check": "top_purpose_segment_days",
+   "independent": 421330,
+   "stats_json": 421330,
+   "pass": true
+  },
+  {
+   "check": "top_purpose_records",
+   "independent": 22166,
+   "stats_json": 22166,
+   "pass": true
+  },
+  {
+   "check": "top_street_by_segment_days",
+   "independent": "16TH ST",
+   "stats_json": "16TH ST",
+   "pass": true
+  },
+  {
+   "check": "top_street_segment_days",
+   "independent": 51335,
+   "stats_json": 51335,
+   "pass": true
+  }
+ ],
+ "all_pass": true
+}

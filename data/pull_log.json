@@ -1,0 +1,36 @@
+{
+ "pull_date": "2026-10-30",
+ "layer": "https://services1.arcgis.com/zdB7qR0BtYrg0Xpl/ArcGIS/rest/services/ODC_DEV_STREETOCCUPANCYPPERMITS_L/FeatureServer/297",
+ "layer_name": "DEV_STREETOCCUPANCYPPERMITS_L",
+ "description": "This layer shows the locations of street occupancy permits extracted from the Accela permit database. The dataset includes expired, currently active, and future scheduled permits. A single permit may encompass multiple closures across several street segments and affect different portions of the street\u2014such as the sidewalk, a turn lane, or all lanes. The data is maintained by the Department of Transportation and Infrastructure and processed daily by the Technology Services GIS group.",
+ "editingInfo": {
+  "lastEditDate": 1793357158944,
+  "schemaLastEditDate": 1793357158944,
+  "dataLastEditDate": 1793357137922
+ },
+ "server_count": 260061,
+ "pulled_rows": 260061,
+ "fields": [
+  "OBJECTID",
+  "SEQUENCE_ID",
+  "PERMIT_NUMBER",
+  "COMPANY",
+  "PURPOSE",
+  "PROJECT",
+  "EXEMPT",
+  "ASIT_TYPE",
+  "LOCATION_DETAILS",
+  "FULL_ADDRESS",
+  "BEGIN_DATE",
+  "END_DATE",
+  "STREET",
+  "FROM_STREET",
+  "TO_STREET",
+  "GIS_LOAD_DATE",
+  "GIS_LOAD_TYPE",
+  "X_COORD",
+  "Y_COORD",
+  "SOURCE_SIG",
+  "Shape__Length"
+ ]
+}

@@ -1,0 +1,1494 @@
+{
+ "pull_date": "2026-10-30",
+ "date_classes": {
+  "rows_total": 260061,
+  "begin_null": 3,
+  "end_null": 1,
+  "begin_before_2017": 16,
+  "begin_after_pull": 665,
+  "end_before_begin_raw": 83,
+  "future_scheduled_valid": 650,
+  "begin_after_2027": 13,
+  "in_window_begin": 259377,
+  "in_window_end_before_begin": 68,
+  "in_window_end_after_cap": 25,
+  "in_window_end_null": 0,
+  "valid_records": 259284,
+  "excluded_from_window_total": 777
+ },
+ "register": {
+  "distinct_permit_numbers": 97538,
+  "permit_number_null": 1,
+  "rows_per_permit_median": 2.0,
+  "rows_per_permit_max": 94,
+  "permits_with_one_row": 44294,
+  "permits_with_one_row_share_pct": 45.4,
+  "segment_length_total_ft_all_rows": 209147057.15608057,
+  "segment_length_total_miles_all_rows": 39611.2,
+  "xy_present_rows": 66481,
+  "xy_present_share_pct": 25.6,
+  "gis_load_type_counter": [
+   [
+    "Simple street search",
+    183838
+   ],
+   [
+    "Connected segments SQL",
+    76201
+   ],
+   [
+    "<null>",
+    22
+   ]
+  ]
+ },
+ "vintage_break_by_year": {
+  "2018": {
+   "records": 9771,
+   "purpose_known": 1,
+   "purpose_known_share_pct": 0.0,
+   "company_known": 1,
+   "company_known_share_pct": 0.0
+  },
+  "2019": {
+   "records": 26185,
+   "purpose_known": 87,
+   "purpose_known_share_pct": 0.3,
+   "company_known": 88,
+   "company_known_share_pct": 0.3
+  },
+  "2020": {
+   "records": 35852,
+   "purpose_known": 23972,
+   "purpose_known_share_pct": 66.9,
+   "company_known": 23969,
+   "company_known_share_pct": 66.9
+  },
+  "2021": {
+   "records": 40793,
+   "purpose_known": 40756,
+   "purpose_known_share_pct": 99.9,
+   "company_known": 40741,
+   "company_known_share_pct": 99.9
+  },
+  "2022": {
+   "records": 26893,
+   "purpose_known": 26863,
+   "purpose_known_share_pct": 99.9,
+   "company_known": 26795,
+   "company_known_share_pct": 99.6
+  },
+  "2023": {
+   "records": 30329,
+   "purpose_known": 30314,
+   "purpose_known_share_pct": 100.0,
+   "company_known": 30325,
+   "company_known_share_pct": 100.0
+  },
+  "2024": {
+   "records": 32655,
+   "purpose_known": 32633,
+   "purpose_known_share_pct": 99.9,
+   "company_known": 32655,
+   "company_known_share_pct": 100.0
+  },
+  "2025": {
+   "records": 33935,
+   "purpose_known": 33930,
+   "purpose_known_share_pct": 100.0,
+   "company_known": 33917,
+   "company_known_share_pct": 99.9
+  },
+  "2026": {
+   "records": 22806,
+   "purpose_known": 22797,
+   "purpose_known_share_pct": 100.0,
+   "company_known": 22797,
+   "company_known_share_pct": 100.0
+  }
+ },
+ "purpose_and_company_both_null_valid": 47775,
+ "duration": {
+  "total_segment_days": 2595960,
+  "median_days": 3.0,
+  "mean_days": 10.01,
+  "p75_days": 7.0,
+  "p90_days": 18.0,
+  "p99_days": 115.0,
+  "max_days": 1611,
+  "same_day_records": 39933,
+  "same_day_share_pct": 15.4,
+  "duration_bands": [
+   {
+    "band": "0 days",
+    "records": 39933,
+    "record_share_pct": 15.4,
+    "segment_days": 0,
+    "segment_day_share_pct": 0.0
+   },
+   {
+    "band": "1-7 days",
+    "records": 156505,
+    "record_share_pct": 60.4,
+    "segment_days": 473323,
+    "segment_day_share_pct": 18.2
+   },
+   {
+    "band": "8-30 days",
+    "records": 47440,
+    "record_share_pct": 18.3,
+    "segment_days": 715219,
+    "segment_day_share_pct": 27.6
+   },
+   {
+    "band": "31-90 days",
+    "records": 10869,
+    "record_share_pct": 4.2,
+    "segment_days": 509165,
+    "segment_day_share_pct": 19.6
+   },
+   {
+    "band": "91-365 days",
+    "records": 4163,
+    "record_share_pct": 1.6,
+    "segment_days": 687330,
+    "segment_day_share_pct": 26.5
+   },
+   {
+    "band": "over 365 days",
+    "records": 374,
+    "record_share_pct": 0.1,
+    "segment_days": 210923,
+    "segment_day_share_pct": 8.1
+   }
+  ],
+  "over_90_records": 4537,
+  "over_90_record_share_pct": 1.75,
+  "over_90_segment_days": 898253,
+  "over_90_segment_day_share_pct": 34.6,
+  "over_365_records": 374,
+  "over_365_segment_days": 210923,
+  "over_365_segment_day_share_pct": 8.1,
+  "foot_days_total": 2437479404.588364,
+  "by_begin_year": {
+   "2017": {
+    "records": 65,
+    "segment_days": 1176,
+    "median_days": 5.0
+   },
+   "2018": {
+    "records": 9771,
+    "segment_days": 70919,
+    "median_days": 2.0
+   },
+   "2019": {
+    "records": 26185,
+    "segment_days": 249497,
+    "median_days": 2.0
+   },
+   "2020": {
+    "records": 35852,
+    "segment_days": 349770,
+    "median_days": 3.0
+   },
+   "2021": {
+    "records": 40793,
+    "segment_days": 347885,
+    "median_days": 3.0
+   },
+   "2022": {
+    "records": 26893,
+    "segment_days": 327835,
+    "median_days": 4.0
+   },
+   "2023": {
+    "records": 30329,
+    "segment_days": 382831,
+    "median_days": 4.0
+   },
+   "2024": {
+    "records": 32655,
+    "segment_days": 370933,
+    "median_days": 4.0
+   },
+   "2025": {
+    "records": 33935,
+    "segment_days": 303995,
+    "median_days": 4.0
+   },
+   "2026": {
+    "records": 22806,
+    "segment_days": 191119,
+    "median_days": 3.0
+   }
+  }
+ },
+ "snapshot": {
+  "active_on_pull_date_records": 631,
+  "active_median_duration_days": 31.0,
+  "active_over_90_share_records": 185,
+  "active_top_purposes": [
+   [
+    "ROW Construction",
+    197
+   ],
+   [
+    "Street Cut - Water",
+    75
+   ],
+   [
+    "Street Cut - Utilities",
+    63
+   ],
+   [
+    "Utility",
+    62
+   ],
+   [
+    "Miscellaneous - Multi-Categories",
+    29
+   ]
+  ],
+  "active_top_companies": [
+   [
+    "KRAEMER NORTH AMERICA LLC",
+    54
+   ],
+   [
+    "DENVER WATER BOARD",
+    43
+   ],
+   [
+    "HOOPER CORPORATION",
+    29
+   ],
+   [
+    "CCD-KRAEMER NORTH AMERICA LLC",
+    24
+   ],
+   [
+    "CCD (CPM Trans) & Sema Construction Inc",
+    20
+   ]
+  ],
+  "future_scheduled_valid_records": 650
+ },
+ "basis_2021_plus": {
+  "records_2021_plus_valid": 187411,
+  "purpose_known": 187293,
+  "purpose_null": 118,
+  "company_known": 187230,
+  "company_null": 181
+ },
+ "purpose_2021_plus_by_segment_days": [
+  {
+   "purpose": "ROW Construction",
+   "records": 22166,
+   "record_share_of_known_pct": 11.8,
+   "segment_days": 421330,
+   "segment_day_share_of_known_pct": 21.9,
+   "median_days": 8.0
+  },
+  {
+   "purpose": "Utility",
+   "records": 34645,
+   "record_share_of_known_pct": 18.5,
+   "segment_days": 216518,
+   "segment_day_share_of_known_pct": 11.3,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Safety",
+   "records": 2599,
+   "record_share_of_known_pct": 1.4,
+   "segment_days": 175848,
+   "segment_day_share_of_known_pct": 9.2,
+   "median_days": 16.0
+  },
+  {
+   "purpose": "Street Cut - Water",
+   "records": 17036,
+   "record_share_of_known_pct": 9.1,
+   "segment_days": 150532,
+   "segment_day_share_of_known_pct": 7.8,
+   "median_days": 5.0
+  },
+  {
+   "purpose": "Street Cut - Utilities",
+   "records": 17037,
+   "record_share_of_known_pct": 9.1,
+   "segment_days": 112034,
+   "segment_day_share_of_known_pct": 5.8,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Miscellaneous - Multi-Categories",
+   "records": 3996,
+   "record_share_of_known_pct": 2.1,
+   "segment_days": 108330,
+   "segment_day_share_of_known_pct": 5.6,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Fiber Optics",
+   "records": 25465,
+   "record_share_of_known_pct": 13.6,
+   "segment_days": 80484,
+   "segment_day_share_of_known_pct": 4.2,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Bike Parking",
+   "records": 121,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 76881,
+   "segment_day_share_of_known_pct": 4.0,
+   "median_days": 585.0
+  },
+  {
+   "purpose": "Site Improvements",
+   "records": 2581,
+   "record_share_of_known_pct": 1.4,
+   "segment_days": 54856,
+   "segment_day_share_of_known_pct": 2.9,
+   "median_days": 6.0
+  },
+  {
+   "purpose": "Dumpster",
+   "records": 1274,
+   "record_share_of_known_pct": 0.7,
+   "segment_days": 46723,
+   "segment_day_share_of_known_pct": 2.4,
+   "median_days": 14.0
+  },
+  {
+   "purpose": "Special Events",
+   "records": 5293,
+   "record_share_of_known_pct": 2.8,
+   "segment_days": 45519,
+   "segment_day_share_of_known_pct": 2.4,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Paving",
+   "records": 1954,
+   "record_share_of_known_pct": 1.0,
+   "segment_days": 44068,
+   "segment_day_share_of_known_pct": 2.3,
+   "median_days": 23.5
+  },
+  {
+   "purpose": "Valet - Long Term",
+   "records": 112,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 40100,
+   "segment_day_share_of_known_pct": 2.1,
+   "median_days": 364.0
+  },
+  {
+   "purpose": "Pot Holing",
+   "records": 6690,
+   "record_share_of_known_pct": 3.6,
+   "segment_days": 38365,
+   "segment_day_share_of_known_pct": 2.0,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Road/Alley Repair",
+   "records": 10900,
+   "record_share_of_known_pct": 5.8,
+   "segment_days": 34499,
+   "segment_day_share_of_known_pct": 1.8,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Traffic Signal Installation",
+   "records": 2189,
+   "record_share_of_known_pct": 1.2,
+   "segment_days": 26533,
+   "segment_day_share_of_known_pct": 1.4,
+   "median_days": 13.0
+  },
+  {
+   "purpose": "Bridge Construction",
+   "records": 388,
+   "record_share_of_known_pct": 0.2,
+   "segment_days": 25403,
+   "segment_day_share_of_known_pct": 1.3,
+   "median_days": 16.5
+  },
+  {
+   "purpose": "Street Cut - Sewer",
+   "records": 5584,
+   "record_share_of_known_pct": 3.0,
+   "segment_days": 24941,
+   "segment_day_share_of_known_pct": 1.3,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Sidewalk Repair",
+   "records": 4387,
+   "record_share_of_known_pct": 2.3,
+   "segment_days": 21611,
+   "segment_day_share_of_known_pct": 1.1,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Fencing Construction",
+   "records": 256,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 20342,
+   "segment_day_share_of_known_pct": 1.1,
+   "median_days": 35.0
+  },
+  {
+   "purpose": "Curb and Gutter",
+   "records": 1371,
+   "record_share_of_known_pct": 0.7,
+   "segment_days": 19247,
+   "segment_day_share_of_known_pct": 1.0,
+   "median_days": 7.0
+  },
+  {
+   "purpose": "Deliveries",
+   "records": 552,
+   "record_share_of_known_pct": 0.3,
+   "segment_days": 18014,
+   "segment_day_share_of_known_pct": 0.9,
+   "median_days": 3.5
+  },
+  {
+   "purpose": "Parking",
+   "records": 566,
+   "record_share_of_known_pct": 0.3,
+   "segment_days": 16555,
+   "segment_day_share_of_known_pct": 0.9,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Sanitary Sewer",
+   "records": 3750,
+   "record_share_of_known_pct": 2.0,
+   "segment_days": 16364,
+   "segment_day_share_of_known_pct": 0.9,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Surveying",
+   "records": 815,
+   "record_share_of_known_pct": 0.4,
+   "segment_days": 14731,
+   "segment_day_share_of_known_pct": 0.8,
+   "median_days": 17.0
+  },
+  {
+   "purpose": "Container",
+   "records": 2929,
+   "record_share_of_known_pct": 1.6,
+   "segment_days": 14711,
+   "segment_day_share_of_known_pct": 0.8,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Tree Trimming",
+   "records": 1105,
+   "record_share_of_known_pct": 0.6,
+   "segment_days": 8877,
+   "segment_day_share_of_known_pct": 0.5,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Construction Trailer",
+   "records": 112,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 8402,
+   "segment_day_share_of_known_pct": 0.4,
+   "median_days": 35.0
+  },
+  {
+   "purpose": "Boring and/or Wells",
+   "records": 1025,
+   "record_share_of_known_pct": 0.5,
+   "segment_days": 7069,
+   "segment_day_share_of_known_pct": 0.4,
+   "median_days": 6.0
+  },
+  {
+   "purpose": "Equipment Installation",
+   "records": 1723,
+   "record_share_of_known_pct": 0.9,
+   "segment_days": 6363,
+   "segment_day_share_of_known_pct": 0.3,
+   "median_days": 1.0
+  },
+  {
+   "purpose": "Sewer Lining",
+   "records": 769,
+   "record_share_of_known_pct": 0.4,
+   "segment_days": 5244,
+   "segment_day_share_of_known_pct": 0.3,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Aerial Cable",
+   "records": 1267,
+   "record_share_of_known_pct": 0.7,
+   "segment_days": 5088,
+   "segment_day_share_of_known_pct": 0.3,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Curb Cut/Driveway",
+   "records": 353,
+   "record_share_of_known_pct": 0.2,
+   "segment_days": 3787,
+   "segment_day_share_of_known_pct": 0.2,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Crane Service",
+   "records": 3549,
+   "record_share_of_known_pct": 1.9,
+   "segment_days": 3395,
+   "segment_day_share_of_known_pct": 0.2,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Cable",
+   "records": 847,
+   "record_share_of_known_pct": 0.5,
+   "segment_days": 3062,
+   "segment_day_share_of_known_pct": 0.2,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Concrete Pumper",
+   "records": 1039,
+   "record_share_of_known_pct": 0.6,
+   "segment_days": 2410,
+   "segment_day_share_of_known_pct": 0.1,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Alley Resurfacing",
+   "records": 173,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 2027,
+   "segment_day_share_of_known_pct": 0.1,
+   "median_days": 5.0
+  },
+  {
+   "purpose": "Soil Sampling",
+   "records": 252,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 793,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Monitoring Well",
+   "records": 166,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 306,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 1.0
+  },
+  {
+   "purpose": "Filming",
+   "records": 32,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 112,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Fire Hydrant",
+   "records": 25,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 74,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 1.0
+  },
+  {
+   "purpose": "HAZMAT Removal",
+   "records": 4,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 28,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 7.0
+  },
+  {
+   "purpose": "Valet - Short Term",
+   "records": 184,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 3,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Block Party",
+   "records": 12,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 0,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 0.0
+  }
+ ],
+ "purpose_2021_plus_by_records": [
+  {
+   "purpose": "Utility",
+   "records": 34645,
+   "record_share_of_known_pct": 18.5,
+   "segment_days": 216518,
+   "segment_day_share_of_known_pct": 11.3,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Fiber Optics",
+   "records": 25465,
+   "record_share_of_known_pct": 13.6,
+   "segment_days": 80484,
+   "segment_day_share_of_known_pct": 4.2,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "ROW Construction",
+   "records": 22166,
+   "record_share_of_known_pct": 11.8,
+   "segment_days": 421330,
+   "segment_day_share_of_known_pct": 21.9,
+   "median_days": 8.0
+  },
+  {
+   "purpose": "Street Cut - Utilities",
+   "records": 17037,
+   "record_share_of_known_pct": 9.1,
+   "segment_days": 112034,
+   "segment_day_share_of_known_pct": 5.8,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Street Cut - Water",
+   "records": 17036,
+   "record_share_of_known_pct": 9.1,
+   "segment_days": 150532,
+   "segment_day_share_of_known_pct": 7.8,
+   "median_days": 5.0
+  },
+  {
+   "purpose": "Road/Alley Repair",
+   "records": 10900,
+   "record_share_of_known_pct": 5.8,
+   "segment_days": 34499,
+   "segment_day_share_of_known_pct": 1.8,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Pot Holing",
+   "records": 6690,
+   "record_share_of_known_pct": 3.6,
+   "segment_days": 38365,
+   "segment_day_share_of_known_pct": 2.0,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Street Cut - Sewer",
+   "records": 5584,
+   "record_share_of_known_pct": 3.0,
+   "segment_days": 24941,
+   "segment_day_share_of_known_pct": 1.3,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Special Events",
+   "records": 5293,
+   "record_share_of_known_pct": 2.8,
+   "segment_days": 45519,
+   "segment_day_share_of_known_pct": 2.4,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Sidewalk Repair",
+   "records": 4387,
+   "record_share_of_known_pct": 2.3,
+   "segment_days": 21611,
+   "segment_day_share_of_known_pct": 1.1,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Miscellaneous - Multi-Categories",
+   "records": 3996,
+   "record_share_of_known_pct": 2.1,
+   "segment_days": 108330,
+   "segment_day_share_of_known_pct": 5.6,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Sanitary Sewer",
+   "records": 3750,
+   "record_share_of_known_pct": 2.0,
+   "segment_days": 16364,
+   "segment_day_share_of_known_pct": 0.9,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Crane Service",
+   "records": 3549,
+   "record_share_of_known_pct": 1.9,
+   "segment_days": 3395,
+   "segment_day_share_of_known_pct": 0.2,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Container",
+   "records": 2929,
+   "record_share_of_known_pct": 1.6,
+   "segment_days": 14711,
+   "segment_day_share_of_known_pct": 0.8,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Safety",
+   "records": 2599,
+   "record_share_of_known_pct": 1.4,
+   "segment_days": 175848,
+   "segment_day_share_of_known_pct": 9.2,
+   "median_days": 16.0
+  },
+  {
+   "purpose": "Site Improvements",
+   "records": 2581,
+   "record_share_of_known_pct": 1.4,
+   "segment_days": 54856,
+   "segment_day_share_of_known_pct": 2.9,
+   "median_days": 6.0
+  },
+  {
+   "purpose": "Traffic Signal Installation",
+   "records": 2189,
+   "record_share_of_known_pct": 1.2,
+   "segment_days": 26533,
+   "segment_day_share_of_known_pct": 1.4,
+   "median_days": 13.0
+  },
+  {
+   "purpose": "Paving",
+   "records": 1954,
+   "record_share_of_known_pct": 1.0,
+   "segment_days": 44068,
+   "segment_day_share_of_known_pct": 2.3,
+   "median_days": 23.5
+  },
+  {
+   "purpose": "Equipment Installation",
+   "records": 1723,
+   "record_share_of_known_pct": 0.9,
+   "segment_days": 6363,
+   "segment_day_share_of_known_pct": 0.3,
+   "median_days": 1.0
+  },
+  {
+   "purpose": "Curb and Gutter",
+   "records": 1371,
+   "record_share_of_known_pct": 0.7,
+   "segment_days": 19247,
+   "segment_day_share_of_known_pct": 1.0,
+   "median_days": 7.0
+  },
+  {
+   "purpose": "Dumpster",
+   "records": 1274,
+   "record_share_of_known_pct": 0.7,
+   "segment_days": 46723,
+   "segment_day_share_of_known_pct": 2.4,
+   "median_days": 14.0
+  },
+  {
+   "purpose": "Aerial Cable",
+   "records": 1267,
+   "record_share_of_known_pct": 0.7,
+   "segment_days": 5088,
+   "segment_day_share_of_known_pct": 0.3,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Tree Trimming",
+   "records": 1105,
+   "record_share_of_known_pct": 0.6,
+   "segment_days": 8877,
+   "segment_day_share_of_known_pct": 0.5,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Concrete Pumper",
+   "records": 1039,
+   "record_share_of_known_pct": 0.6,
+   "segment_days": 2410,
+   "segment_day_share_of_known_pct": 0.1,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Boring and/or Wells",
+   "records": 1025,
+   "record_share_of_known_pct": 0.5,
+   "segment_days": 7069,
+   "segment_day_share_of_known_pct": 0.4,
+   "median_days": 6.0
+  },
+  {
+   "purpose": "Cable",
+   "records": 847,
+   "record_share_of_known_pct": 0.5,
+   "segment_days": 3062,
+   "segment_day_share_of_known_pct": 0.2,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Surveying",
+   "records": 815,
+   "record_share_of_known_pct": 0.4,
+   "segment_days": 14731,
+   "segment_day_share_of_known_pct": 0.8,
+   "median_days": 17.0
+  },
+  {
+   "purpose": "Sewer Lining",
+   "records": 769,
+   "record_share_of_known_pct": 0.4,
+   "segment_days": 5244,
+   "segment_day_share_of_known_pct": 0.3,
+   "median_days": 3.0
+  },
+  {
+   "purpose": "Parking",
+   "records": 566,
+   "record_share_of_known_pct": 0.3,
+   "segment_days": 16555,
+   "segment_day_share_of_known_pct": 0.9,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Deliveries",
+   "records": 552,
+   "record_share_of_known_pct": 0.3,
+   "segment_days": 18014,
+   "segment_day_share_of_known_pct": 0.9,
+   "median_days": 3.5
+  },
+  {
+   "purpose": "Bridge Construction",
+   "records": 388,
+   "record_share_of_known_pct": 0.2,
+   "segment_days": 25403,
+   "segment_day_share_of_known_pct": 1.3,
+   "median_days": 16.5
+  },
+  {
+   "purpose": "Curb Cut/Driveway",
+   "records": 353,
+   "record_share_of_known_pct": 0.2,
+   "segment_days": 3787,
+   "segment_day_share_of_known_pct": 0.2,
+   "median_days": 4.0
+  },
+  {
+   "purpose": "Fencing Construction",
+   "records": 256,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 20342,
+   "segment_day_share_of_known_pct": 1.1,
+   "median_days": 35.0
+  },
+  {
+   "purpose": "Soil Sampling",
+   "records": 252,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 793,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Valet - Short Term",
+   "records": 184,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 3,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "Alley Resurfacing",
+   "records": 173,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 2027,
+   "segment_day_share_of_known_pct": 0.1,
+   "median_days": 5.0
+  },
+  {
+   "purpose": "Monitoring Well",
+   "records": 166,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 306,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 1.0
+  },
+  {
+   "purpose": "Bike Parking",
+   "records": 121,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 76881,
+   "segment_day_share_of_known_pct": 4.0,
+   "median_days": 585.0
+  },
+  {
+   "purpose": "Valet - Long Term",
+   "records": 112,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 40100,
+   "segment_day_share_of_known_pct": 2.1,
+   "median_days": 364.0
+  },
+  {
+   "purpose": "Construction Trailer",
+   "records": 112,
+   "record_share_of_known_pct": 0.1,
+   "segment_days": 8402,
+   "segment_day_share_of_known_pct": 0.4,
+   "median_days": 35.0
+  },
+  {
+   "purpose": "Filming",
+   "records": 32,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 112,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 2.0
+  },
+  {
+   "purpose": "Fire Hydrant",
+   "records": 25,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 74,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 1.0
+  },
+  {
+   "purpose": "Block Party",
+   "records": 12,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 0,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 0.0
+  },
+  {
+   "purpose": "HAZMAT Removal",
+   "records": 4,
+   "record_share_of_known_pct": 0.0,
+   "segment_days": 28,
+   "segment_day_share_of_known_pct": 0.0,
+   "median_days": 7.0
+  }
+ ],
+ "company_2021_plus_top_by_records": [
+  {
+   "company": "DENVER WATER BOARD",
+   "records": 21205,
+   "segment_days": 207816,
+   "median_days": 6.0
+  },
+  {
+   "company": "XCEL ENERGY-CENTRAL METRO",
+   "records": 20263,
+   "segment_days": 95099,
+   "median_days": 3.0
+  },
+  {
+   "company": "PAULEY CONSTRUCTION LLC",
+   "records": 10397,
+   "segment_days": 31139,
+   "median_days": 3.0
+  },
+  {
+   "company": "MEARS GROUP INC",
+   "records": 5315,
+   "segment_days": 42248,
+   "median_days": 7.0
+  },
+  {
+   "company": "XCEL ENERGY - AMRP/CAB",
+   "records": 5208,
+   "segment_days": 32743,
+   "median_days": 2.0
+  },
+  {
+   "company": "XCEL-RECON",
+   "records": 5083,
+   "segment_days": 43326,
+   "median_days": 7.0
+  },
+  {
+   "company": "SITEWISE LLC",
+   "records": 5057,
+   "segment_days": 8867,
+   "median_days": 1.0
+  },
+  {
+   "company": "WYCO FIELD SERVICES INC",
+   "records": 4259,
+   "segment_days": 11619,
+   "median_days": 2.0
+  },
+  {
+   "company": "HOOPER CORPORATION",
+   "records": 4248,
+   "segment_days": 34685,
+   "median_days": 10.0
+  },
+  {
+   "company": "STURGEON ELECTRIC COMPANY INC",
+   "records": 4232,
+   "segment_days": 26112,
+   "median_days": 4.0
+  }
+ ],
+ "company_2021_plus_top_by_segment_days": [
+  {
+   "company": "DENVER WATER BOARD",
+   "records": 21205,
+   "segment_days": 207816,
+   "median_days": 6.0
+  },
+  {
+   "company": "XCEL ENERGY-CENTRAL METRO",
+   "records": 20263,
+   "segment_days": 95099,
+   "median_days": 3.0
+  },
+  {
+   "company": "CCD (CPM Trans) & PCL",
+   "records": 1203,
+   "segment_days": 56048,
+   "median_days": 14.0
+  },
+  {
+   "company": "XCEL-RECON",
+   "records": 5083,
+   "segment_days": 43326,
+   "median_days": 7.0
+  },
+  {
+   "company": "MEARS GROUP INC",
+   "records": 5315,
+   "segment_days": 42248,
+   "median_days": 7.0
+  },
+  {
+   "company": "HOOPER CORPORATION",
+   "records": 4248,
+   "segment_days": 34685,
+   "median_days": 10.0
+  },
+  {
+   "company": "XCEL ENERGY - AMRP/CAB",
+   "records": 5208,
+   "segment_days": 32743,
+   "median_days": 2.0
+  },
+  {
+   "company": "PAULEY CONSTRUCTION LLC",
+   "records": 10397,
+   "segment_days": 31139,
+   "median_days": 3.0
+  },
+  {
+   "company": "KRAEMER NORTH AMERICA LLC",
+   "records": 148,
+   "segment_days": 27209,
+   "median_days": 167.5
+  },
+  {
+   "company": "STURGEON ELECTRIC COMPANY INC",
+   "records": 4232,
+   "segment_days": 26112,
+   "median_days": 4.0
+  }
+ ],
+ "company_distinct_strings_2021_plus": 4410,
+ "xcel_strings": {
+  "distinct_strings_containing_xcel": 179,
+  "records": 37451,
+  "segment_days": 209891,
+  "top_strings": [
+   [
+    "XCEL ENERGY-CENTRAL METRO",
+    20263
+   ],
+   [
+    "XCEL ENERGY - AMRP/CAB",
+    5208
+   ],
+   [
+    "XCEL-RECON",
+    5083
+   ]
+  ]
+ },
+ "asit_by_segment_days": [
+  {
+   "asit_type": "1st Lane",
+   "records": 54234,
+   "record_share_pct": 20.9,
+   "segment_days": 461970,
+   "segment_day_share_pct": 17.8,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Parking Lane",
+   "records": 31298,
+   "record_share_pct": 12.1,
+   "segment_days": 412385,
+   "segment_day_share_pct": 15.9,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Sidewalk - Collector/Arterial",
+   "records": 24048,
+   "record_share_pct": 9.3,
+   "segment_days": 277913,
+   "segment_day_share_pct": 10.7,
+   "median_days": 4.0
+  },
+  {
+   "asit_type": "Residential - Full",
+   "records": 24947,
+   "record_share_pct": 9.6,
+   "segment_days": 244607,
+   "segment_day_share_pct": 9.4,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Residential - Parking Lane",
+   "records": 25254,
+   "record_share_pct": 9.7,
+   "segment_days": 242862,
+   "segment_day_share_pct": 9.4,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Sidewalk - Residential",
+   "records": 25190,
+   "record_share_pct": 9.7,
+   "segment_days": 235640,
+   "segment_day_share_pct": 9.1,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Sidewalk - CBD/CC",
+   "records": 7753,
+   "record_share_pct": 3.0,
+   "segment_days": 146179,
+   "segment_day_share_pct": 5.6,
+   "median_days": 2.0
+  },
+  {
+   "asit_type": "Residential - Partial",
+   "records": 17624,
+   "record_share_pct": 6.8,
+   "segment_days": 128450,
+   "segment_day_share_pct": 4.9,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Residential - 1 Lane",
+   "records": 10121,
+   "record_share_pct": 3.9,
+   "segment_days": 79317,
+   "segment_day_share_pct": 3.1,
+   "median_days": 4.0
+  },
+  {
+   "asit_type": "Detour",
+   "records": 4442,
+   "record_share_pct": 1.7,
+   "segment_days": 63260,
+   "segment_day_share_pct": 2.4,
+   "median_days": 2.0
+  },
+  {
+   "asit_type": "Alley Residential - Partial",
+   "records": 12518,
+   "record_share_pct": 4.8,
+   "segment_days": 62972,
+   "segment_day_share_pct": 2.4,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Bike Lane",
+   "records": 7450,
+   "record_share_pct": 2.9,
+   "segment_days": 51344,
+   "segment_day_share_pct": 2.0,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Alley Residential - Full",
+   "records": 5889,
+   "record_share_pct": 2.3,
+   "segment_days": 41948,
+   "segment_day_share_pct": 1.6,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "2nd Lane",
+   "records": 4120,
+   "record_share_pct": 1.6,
+   "segment_days": 40753,
+   "segment_day_share_pct": 1.6,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Sidewalk- Covered Coll/Art",
+   "records": 380,
+   "record_share_pct": 0.1,
+   "segment_days": 33134,
+   "segment_day_share_pct": 1.3,
+   "median_days": 63.5
+  },
+  {
+   "asit_type": "Alley CBD/CC - Full",
+   "records": 1216,
+   "record_share_pct": 0.5,
+   "segment_days": 20196,
+   "segment_day_share_pct": 0.8,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "Sidewalk - Covered CBD/CC",
+   "records": 294,
+   "record_share_pct": 0.1,
+   "segment_days": 19318,
+   "segment_day_share_pct": 0.7,
+   "median_days": 56.0
+  },
+  {
+   "asit_type": "Sidewalk - Covered Residential",
+   "records": 172,
+   "record_share_pct": 0.1,
+   "segment_days": 12082,
+   "segment_day_share_pct": 0.5,
+   "median_days": 54.0
+  },
+  {
+   "asit_type": "Alley CBD/CC - Partial",
+   "records": 1211,
+   "record_share_pct": 0.5,
+   "segment_days": 9043,
+   "segment_day_share_pct": 0.3,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "3rd Lane",
+   "records": 703,
+   "record_share_pct": 0.3,
+   "segment_days": 6970,
+   "segment_day_share_pct": 0.3,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "<null>",
+   "records": 238,
+   "record_share_pct": 0.1,
+   "segment_days": 4533,
+   "segment_day_share_pct": 0.2,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "4th Lane",
+   "records": 129,
+   "record_share_pct": 0.0,
+   "segment_days": 807,
+   "segment_day_share_pct": 0.0,
+   "median_days": 2.0
+  },
+  {
+   "asit_type": "5th Lane",
+   "records": 44,
+   "record_share_pct": 0.0,
+   "segment_days": 233,
+   "segment_day_share_pct": 0.0,
+   "median_days": 3.0
+  },
+  {
+   "asit_type": "6th Lane",
+   "records": 9,
+   "record_share_pct": 0.0,
+   "segment_days": 44,
+   "segment_day_share_pct": 0.0,
+   "median_days": 3.0
+  }
+ ],
+ "sidewalk_classes": {
+  "records": 57837,
+  "segment_days": 724266,
+  "segment_day_share_pct": 27.9
+ },
+ "full_closure_classes": {
+  "records": 32052,
+  "segment_days": 306751,
+  "segment_day_share_pct": 11.8
+ },
+ "streets_top_by_segment_days": [
+  {
+   "street": "16TH ST",
+   "records": 1200,
+   "segment_days": 51335,
+   "median_days": 3.0,
+   "segment_ft": 732740.6590873628,
+   "foot_days": 54090746.75797925
+  },
+  {
+   "street": "LARIMER ST",
+   "records": 1697,
+   "segment_days": 42928,
+   "median_days": 3.0,
+   "segment_ft": 1101806.8005884455,
+   "foot_days": 22786882.451913312
+  },
+  {
+   "street": "BLAKE ST",
+   "records": 1744,
+   "segment_days": 28525,
+   "median_days": 3.0,
+   "segment_ft": 1183976.149656417,
+   "foot_days": 16800073.423032302
+  },
+  {
+   "street": "E COLFAX AVE",
+   "records": 2364,
+   "segment_days": 27647,
+   "median_days": 4.0,
+   "segment_ft": 3068332.0290330346,
+   "foot_days": 64124407.537621
+  },
+  {
+   "street": "N BROADWAY",
+   "records": 1781,
+   "segment_days": 25739,
+   "median_days": 3.0,
+   "segment_ft": 1543796.4543298709,
+   "foot_days": 17198438.266879916
+  },
+  {
+   "street": "W 3RD AVE",
+   "records": 638,
+   "segment_days": 25722,
+   "median_days": 4.0,
+   "segment_ft": 358693.529499322,
+   "foot_days": 7032841.66591562
+  },
+  {
+   "street": "15TH ST",
+   "records": 2389,
+   "segment_days": 24275,
+   "median_days": 2.0,
+   "segment_ft": 1241543.7232422223,
+   "foot_days": 12016286.979016487
+  },
+  {
+   "street": "W 10TH AVE",
+   "records": 1547,
+   "segment_days": 23368,
+   "median_days": 4.0,
+   "segment_ft": 1184396.8384778232,
+   "foot_days": 24986826.74055432
+  },
+  {
+   "street": "N DOWNING ST",
+   "records": 1551,
+   "segment_days": 21936,
+   "median_days": 4.0,
+   "segment_ft": 1241412.9827675964,
+   "foot_days": 19857652.782421533
+  },
+  {
+   "street": "MARKET ST",
+   "records": 955,
+   "segment_days": 21483,
+   "median_days": 3.0,
+   "segment_ft": 572388.1794838398,
+   "foot_days": 11393425.601651222
+  }
+ ],
+ "streets_top_by_foot_days": [
+  {
+   "street": "E COLFAX AVE",
+   "records": 2364,
+   "segment_days": 27647,
+   "median_days": 4.0,
+   "segment_ft": 3068332.0290330346,
+   "foot_days": 64124407.537621
+  },
+  {
+   "street": "16TH ST",
+   "records": 1200,
+   "segment_days": 51335,
+   "median_days": 3.0,
+   "segment_ft": 732740.6590873628,
+   "foot_days": 54090746.75797925
+  },
+  {
+   "street": "E 56TH AVE",
+   "records": 952,
+   "segment_days": 11899,
+   "median_days": 4.0,
+   "segment_ft": 3220660.513131616,
+   "foot_days": 50099658.6859313
+  },
+  {
+   "street": "S MONACO ST",
+   "records": 236,
+   "segment_days": 6543,
+   "median_days": 5.0,
+   "segment_ft": 787459.6497925048,
+   "foot_days": 27437889.29519687
+  },
+  {
+   "street": "W 10TH AVE",
+   "records": 1547,
+   "segment_days": 23368,
+   "median_days": 4.0,
+   "segment_ft": 1184396.8384778232,
+   "foot_days": 24986826.74055432
+  }
+ ],
+ "distinct_street_values": 1562,
+ "top10_streets_segment_day_share_pct": 11.3,
+ "street_16th": {
+  "records": 1200,
+  "segment_days": 51335,
+  "median_days": 3.0,
+  "mean_days": 42.8,
+  "top_company": [
+   [
+    "CCD (CPM Trans) & PCL",
+    378
+   ]
+  ],
+  "top_company_records_share_note": "CCD (CPM Trans) & PCL records in the full pull"
+ },
+ "crash_fusion": {
+  "crash_panel_records": 106121,
+  "crashes_naming_a_register_street": 85238,
+  "match_share_pct": 80.3,
+  "total_street_mentions": 129040,
+  "top10_occupancy_streets_segment_day_share_2021_plus_pct": 14.2,
+  "top10_crash_mentions": 13240,
+  "top10_crash_mention_share_pct": 10.3,
+  "ksi_share_top10_mentions_pct": 2.56,
+  "ksi_share_all_mentions_pct": 2.74,
+  "colfax_mentions": 4387,
+  "colfax_ksi": 132,
+  "broadway_mentions": 2434,
+  "broadway_ksi": 64,
+  "first_leg_only_match_share_pct_note": "see verification.md polarity sample"
+ }
+}
